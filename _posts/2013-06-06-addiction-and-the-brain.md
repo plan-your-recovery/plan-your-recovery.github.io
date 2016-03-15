@@ -4,10 +4,9 @@ title: What is the dis-ease of addiction?
 date: 2013-06-06T16:03:36+00:00
 author: Ned Presnall
 layout: post
-guid: http://planyourrecovery.com/?p=150
 permalink: /addiction-and-the-brain/
 categories:
-  - Uncategorized
+  - questions-answers
 ---
 Many chronic illnesses involve dysfunction in the systems that keep our bodies in healthy balance. Heart disease involves dysfunction in the cardiovascular system whereby the fine balance between high density lipoproteins and low-density lipoproteins becomes skewed and results in a gradual restriction of the small blood vessels. Diabetes involves an imbalance between the sugars we take in and the insulin we produce to facilitate storage of this important energy source.****
 

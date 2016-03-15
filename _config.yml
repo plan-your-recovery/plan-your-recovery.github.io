@@ -21,7 +21,7 @@ bio: >
   He presents widely on the topics of addiction, mental health, and Medication Assisted Treatment. 
   Ned is passionate about reducing the stigma against persons with addiction and against Medication Assisted Treatment though discourse and public engagement.
   
-author_image: "/assets/images/ned_presnall.jpg"
+author_image: "assets/images/ned_presnall.jpg"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -33,3 +33,6 @@ kramdown:
 
 gems:
   - jekyll-paginate
+
+collections:
+- reflections

@@ -42,10 +42,11 @@ layout: default
           </p>
           <hr>
           <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+          <p class="read-more"><a href="{{ site.baseurl }}/">Read More</a></p>
         </section>
       </div>
       {{/post}}
-      <div class="isRight">
+      <!-- <div class="isRight">
         <h5 class="index-headline featured"><span>Supported by</span></h5>
         <footer class="site-footer">
           <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a> and <a href="https://github.com/ageitgey/amplify">Amplify</a></section>
@@ -54,7 +55,7 @@ layout: default
             <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{site.name}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
           </div>
         </footer>
-      </div>
+      </div> -->
     </div>
   </article>
 </main>
