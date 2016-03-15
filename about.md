@@ -4,29 +4,23 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+<amp-img width="960" height="720" layout="responsive" src="/assets/images/nick_ned.jpg"></amp-img>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
+Plan Your Recovery is brought to you by Ned Presnall and Nick Niles, two family men working in their spare time to bring thoughtful information about addiction and recovery to a wider audience.
 
-Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
-cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
-orci ac pharetra commodo, diam lectus hendrerit eros, ac elementum magna augue
-sed tellus. Maecenas molestie, nisi ut sodales scelerisque, purus neque
-imperdiet dui, mollis elementum sem augue vel ipsum. Nulla lacinia arcu at quam
-lobortis, vitae interdum tellus fermentum. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Fusce sodales semper erat,
-eu fringilla ligula vulputate id. Maecenas quis libero pellentesque lacus
-egestas vehicula sit amet et neque. Nulla nec facilisis sem. Pellentesque rutrum
-elementum molestie. Quisque eget dui ac quam placerat dictum. Suspendisse quis
-ante placerat, efficitur enim ut, commodo tortor. Etiam consequat, eros quis
-consequat congue, augue mauris molestie libero, sed iaculis lectus enim eu magna.
+Here’s a little bit about us and our vision for this site…
 
-Etiam sapien dolor, mattis vel feugiat nec, egestas eget risus. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
- vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
- pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
- Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
+**Ned Presnall** is Executive Director of Clayton Behavioral and Adjunct Professor at Washington University in St. Louis. He presents widely on the topics of addiction, mental health, and Medication Assisted Treatment. Ned is passionate about reducing the stigma against persons with addiction and against Medication Assisted Treatment though discourse and public engagement.
+
+
+**Nick Niles** is a filmmaker, musician and award-winning graphic designer living and working in Zürich, Switzerland. He studied in the Design & Technology masters program at Parsons School of Design in New York City, and received an MFA in Film Directing from Columbia University. During the day, he designs interactive educational applications for atfront. He’s passionate about helping people tell their stories.
+
+### Mission and Vision
+
+The Mission of Plan Your Recovery, LLC is to engage the public and stimulate complex, unbiased thinking about addiction and recovery—thinking grounded in science and compassion. PlanYourRecovery, LLC is dedicated to reducing the stigmas against persons with addiction and against Medication Assisted Treatment, to expanding patient access to all evidence-based therapies, and to discovering new and more effective ways to support the process of recovery.
+
+The Vision of Plan Your Recovery, LLC is a society in which persons with addiction receive nonjudgmental, supportive, ongoing and effective treatment grounded in science and compassion.
+
+### Training
+
+Ned Presnall, LCSW provides trainings ranging from three hours to three days on Addiction and Medication Assisted Treatment. If you would like more information about the trainings available, please contact him at npresnall@planyourrecovery.com.
