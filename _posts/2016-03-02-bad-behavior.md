@@ -6,8 +6,7 @@ author: Nick Niles
 layout: post
 guid: http://planyourrecovery.com/?p=167
 permalink: /bad-behavior/
-categories:
-  - Reflections
+tag: reflections
 ---
 <div>
   A couple weeks ago, my wife, kids, and I boarded a plane home from the &#8220;happiest place on earth.&#8221; We&#8217;d gone to Disney World so that my partners and I could attend Mass General&#8217;s course on evidence-based treatments for addiction. As the plane taxied to the runway, we became aware of a heated exchange from the row just in front of us. Apparently, a woman had boarded the plane intoxicated, and another passenger had complained about her condition. In the next 10 minutes, a series of capable flight attendants came to speak with the woman and assess her physical and mental state.  She deflected their questions with drunken bombast. As her eyes voluntarily drooped with sedation, she insisted that the passenger who complained was the one causing problems.

@@ -33,6 +33,3 @@ kramdown:
 
 gems:
   - jekyll-paginate
-
-collections:
-- reflections

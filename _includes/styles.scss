@@ -28,7 +28,7 @@ amp-img {
 $rs: 16px;
 
 $font-serif: Georgia,Cambria,"Times New Roman",Times,'Lora', serif;
-$font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
+$font-sans: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
 
 @mixin respond-to($breakpoint) {
   @media only screen and (max-width: $breakpoint + px) {
@@ -96,16 +96,16 @@ ul.main-nav {
 list-style-type:none;
 display:inline-block;
 width:800px;
-background-color:lemonchiffon;
 li {
   display: inline-block;
   float:right;
   margin:0 12px;
   a {
     text-decoration:none;
-    color: blue;
+    color: #333;
+    font-weight:700;
     &:hover {
-      color:red;
+      color:#111;
     }
   }
 }
