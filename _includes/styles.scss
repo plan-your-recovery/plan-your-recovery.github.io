@@ -67,6 +67,7 @@ body {
   @include box-sizing(border-box);
   @include respond-to(800) {
     padding: 0 $rs * 1;
+    // background-color:red;
   }
 
 
@@ -320,6 +321,10 @@ li {
       -webkit-hyphens: auto;
       -moz-hyphens: auto;
       hyphens: auto;
+      @include respond-to(800){
+        font-size: 18px;
+        line-height: 27px;
+      }
     }
     a {
       color: #333333;
