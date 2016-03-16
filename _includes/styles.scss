@@ -28,7 +28,7 @@ amp-img {
 $rs: 16px;
 
 $font-serif: Georgia,Cambria,"Times New Roman",Times,'Lora', serif;
-$font-sans: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+$font-sans: "Helvetica Neue",system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
 
 @mixin respond-to($breakpoint) {
   @media only screen and (max-width: $breakpoint + px) {

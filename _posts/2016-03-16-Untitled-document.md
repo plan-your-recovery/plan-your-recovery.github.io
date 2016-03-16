@@ -8,5 +8,4 @@ published: true
 ---
 THis is a new post. 
 
-![image alt text]({{ site.url }}/public/XSvqiEMY1mDTn1ts1ZhgiQ_img_0.jpg)
-
+<amp-img width="1080" height="855" layout="responsive" src="/public/XSvqiEMY1mDTn1ts1ZhgiQ_img_0.jpg"></amp-img>
