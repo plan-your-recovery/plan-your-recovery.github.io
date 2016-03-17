@@ -5,9 +5,8 @@ date: 2013-05-10T17:48:20+00:00
 author: Ned Presnall
 layout: post
 guid: http://staging.planyourrecovery.com/?p=94
-permalink: /what-is-addiction/
-categories:
-  - Questions and Answers
+permalink: /questions-answers/what-is-addiction/
+tag: questions-answers
 ---
 If you’ve come to PlanYourRecovery.com, you or someone you love may suffer from addiction. Addiction is one of the most devastating and confusing illnesses that affects people today. About 8% of the U.S. population meets criteria for substance abuse or dependence, and in 2000, the use of tobacco, alcohol, and illicit drugs were three of the top ten causes of death in the United States.
 

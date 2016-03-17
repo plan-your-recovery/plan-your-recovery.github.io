@@ -5,7 +5,7 @@ date: 2013-06-01T17:54:58+00:00
 author: Ned Presnall
 layout: post
 guid: http://staging.planyourrecovery.com/?p=102
-permalink: /disease-or-disorder/
+permalink: /questions-answers/disease-or-disorder/
 tag: questions-answers
 ---
 The terms disorder and disease are often used interchangeably, but historically, we have referred to psychological problems as disorders and physical problems as diseases. You&#8217;ll note this discrepancy if you look at the table of contents of the International Classification of Diseases and other Health Problems, a manual used world wide to classify health problems (World Health Organization, 1992):

@@ -5,7 +5,7 @@ date: 2016-03-02T16:18:40+00:00
 author: Nick Niles
 layout: post
 guid: http://planyourrecovery.com/?p=167
-permalink: /bad-behavior/
+permalink: /reflections/bad-behavior/
 tag: reflections
 ---
 <div>
