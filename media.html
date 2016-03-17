@@ -1,16 +1,20 @@
 ---
 layout: default
+title: In The Media
+description: "A good description of this page should go here."
+permalink: /media/
 ---
-  <header class="blog-header">
-      <h1 class="blog-title">{{ site.title }}</h1>
-      <h2 class="blog-description">{{ site.description }}</h2>
+
+  <header class="blog-header --page-header">
+      <h1 class="blog-title">{{ page.title }}</h1>
+      <h2 class="blog-description">{{ page.description }}</h2>
   </header>
+
 <main class="content" role="main">
 
 
-
   <div class="cf frame">
-    {% for post in paginator.posts %}
+    {% for post in site.tags.media %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
         <div class="article-item">
           <header class="post-header">
