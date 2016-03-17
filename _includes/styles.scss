@@ -207,6 +207,10 @@ li {
     &:last-child {
       border-bottom: 0px;
     }
+
+    a:hover {
+      color: $blue;
+    }
     .post-title {
       letter-spacing: -0.02em;
       font-weight: 700;
