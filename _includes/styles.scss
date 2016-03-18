@@ -250,7 +250,8 @@ ul.main-nav {
   &.--page-header {
     min-height:30vw;
     background-image:none;
-    background:$blue;
+    background:none;
+    background-color:$blue;
   }
 }
 
