@@ -1,12 +1,30 @@
 <header class="site-header">
 	<a href="{{ site.baseurl }}/" class="logo">
 		<span class="logo">
-			{% include pyr-logo.svg %}
+			{% include pyr-wing.svg %}
 			<!-- <amp-img src="{{ site.baseurl }}{{ site.logo }}" width="100" height="56" /> -->
 			</span>
 		</a>
+{% if page.title != "Home" %}
+		<p><a class="mobile-menu-link" href="#bottom-menu">Menu</a></p>
+{% endif %}
+
 		<!-- <div class="page-links"> -->
 			<!-- <a class="page-link" href="{{ site.baseurl }}/">Home</a> -->
+			{% if page.title == "Home" %}
+			<ul class="top-mobile-nav">
+			{% for my_page in site.pages %}
+					{% if my_page.title %}
+						<li>
+							<a class="mobile-page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+
+						</li>
+						<hr>
+					{% endif %}
+				{% endfor %}
+			</ul>
+								{% endif %}
+
 			<ul class="main-nav">
 				{% for my_page in site.pages %}
 					{% if my_page.title != "Home" %}

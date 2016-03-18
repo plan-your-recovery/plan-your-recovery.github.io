@@ -72,9 +72,6 @@ body {
   -o-font-feature-settings: "liga", "dlig";
   font-feature-settings: "liga", "dlig";
   color:$dark-color;
-  @include respond-to(870) {
-    padding-top: 72px;
-  }
 }
 
 .site-header {
@@ -113,7 +110,7 @@ body {
   }
 }
 
-ul.main-nav, .mobile-nav ul {
+ul.main-nav, .mobile-nav ul, ul.top-mobile-nav {
   float:right;
 list-style-type:none;
 display:inline-block;
@@ -149,58 +146,94 @@ ul.main-nav {
 }
 }
 
+.mobile-menu-link {
+  color: $dark-color;
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
 
 .mobile-nav {
   display: none;
   @include respond-to(870){
     display: block;
-    position: fixed;
-    top:0;
-    left:0;
-    right:0;
-    padding: 0;
-    box-shadow: 0 1px 5px rgba(0,0,0,.2);    
+    margin-bottom: 96px;
+    // position: fixed;
+    // top:0;
+    // left:0;
+    // right:0;
+    // padding: 0;
+    // box-shadow: 0 1px 5px rgba(0,0,0,.2);    
   }
 
 }
 
 .mobile-nav-header {
-  background: $blue;
+  background: white;
   padding: 12px;
   text-align: center;
   svg {
     fill:none;
-    stroke:#fff;
+    stroke:$blue;
     stroke-linecap:round;
     stroke-linejoin:round;
-    stroke-width:3px;
-    width: 300px;
-    height: 40px;
-    max-width: 300px;
-    max-height: 40px;
+    stroke-width:4px;
+    width: 240px;
+    height: 32px;
+    max-width: 240px;
+    max-height: 32px;
     margin: 0 auto;
+  }
+  p.bottom-logo svg {
+    fill: $blue;
+    stroke: none;
+    stroke-width: 0;
+    width: 50px;
+    height: 50px;
   }
 }
 
-.mobile-nav ul {
+.mobile-nav ul, ul.top-mobile-nav {
   background: white;
   float:none;
-  display: none;
   height: 0;
   width: 100%;
 }
 
-.mobile-nav ul.nav--active {
+.mobile-nav ul, ul.top-mobile-nav {
     width: 100%;
     margin:0;
     display: block;
-    background: white;
     height: auto;
+    padding: 0;
     li {
       background: white;
-      padding: 18px 0;
+      padding: 12px 0;
+      margin: 0;
+
     }
+          hr {
+        max-width: 50px;
+        border:none;
+        border-top: 1px solid $blue;
+        margin:0 auto;
+      }
 }
+
+section[expanded] span.expanded {
+    display: block;
+  }
+  section[expanded] span.collapsed {
+    display: none;
+  }
+  section:not([expanded]) span.expanded {
+    display: none;
+  }
+  section:not([expanded]) span.collapsed {
+    display: block;
+  }
 
 .blog-header {
   width: 100%;

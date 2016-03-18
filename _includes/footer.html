@@ -1,12 +1,10 @@
-<footer class="site-footer">
-  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-    <div class="inner">
-         <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-         <section class="poweredby">Site by <a href="http://nickniles.com"> Nick Niles</a> </section>
-    </div>
-</footer>
-<nav class="mobile-nav">
+
+<nav id="bottom-menu" class="mobile-nav">
 	<div class="mobile-nav-header">
+		<p class="bottom-logo">
+					{% include pyr-wing.svg %}
+
+		</p>
 		{% include logotype.svg %}
 	</div>
 	<ul>
@@ -14,12 +12,21 @@
 					{% if my_page.title %}
 						<li>
 							<a class="mobile-page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+
 						</li>
+						<hr>
 					{% endif %}
 				{% endfor %}
 	</ul>
 </nav>
 
-<script>
-	{% include main.js %}
-</script>
+<footer class="site-footer">
+  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> RSS Feed</span></a>
+
+    <div class="inner">
+         <section class="copyright">All content &copy; {{ site.time | date: '%Y' }} <a href="mailto:{{ site.email}}">{{ site.name }}</a> <br>
+         All rights reserved.</section>
+         <section class="poweredby">Site built by <a href="http://nickniles.com"> Nick Niles</a> </section>
+    </div>
+
+</footer>

@@ -10,7 +10,7 @@ title: Plan Your Recovery
 email: npresnall@planyourrecovery.com
 description: >
   A place for answers about addiction & recovery.
-logo: "/assets/images/pyr.svg"
+logo: "/assets/images/pyr-logo.svg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://plan-your-recovery.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
