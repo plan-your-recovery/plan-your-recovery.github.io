@@ -5,3 +5,21 @@
          <section class="poweredby">Site by <a href="http://nickniles.com"> Nick Niles</a> </section>
     </div>
 </footer>
+<nav class="mobile-nav">
+	<div class="mobile-nav-header">
+		{% include logotype.svg %}
+	</div>
+	<ul>
+		{% for my_page in site.pages %}
+					{% if my_page.title %}
+						<li>
+							<a class="mobile-page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+						</li>
+					{% endif %}
+				{% endfor %}
+	</ul>
+</nav>
+
+<script>
+	{% include main.js %}
+</script>
