@@ -146,13 +146,19 @@ ul.main-nav {
 }
 }
 
-.mobile-menu-link {
+a.mobile-menu-link {
+  display: none;
+  @include respond-to(870){
+    display: block;
+    width: 100%;
   color: $dark-color;
   font-weight: 500;
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 1px;
   text-decoration: none;
+  }
+
 }
 
 .mobile-nav {
