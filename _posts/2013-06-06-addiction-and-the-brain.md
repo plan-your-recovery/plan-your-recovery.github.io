@@ -1,6 +1,6 @@
 ---
 id: 150
-title: What is the dis-ease of addiction?
+title: What is the disease of addiction?
 date: 2013-06-06T16:03:36+00:00
 author: Ned Presnall
 layout: post
