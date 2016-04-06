@@ -109,7 +109,7 @@ body {
         }
     }
 
-    ul.main-nav, .mobile-nav ul, ul.top-mobile-nav {
+    ul.main-nav {
         float: right;
         list-style-type: none;
         display: inline-block;
@@ -142,6 +142,8 @@ body {
         }
     }
 
+
+
     ul.main-nav {
         @include respond-to(870) {
             display: none;
@@ -169,8 +171,8 @@ body {
 
     @include respond-to(870) {
         display: block;
-        margin-bottom: 96px;
-
+        margin-bottom: 12px;
+        background: #f4f4f4;
         // position: fixed;
         // top:0;
         // left:0;
@@ -181,14 +183,19 @@ body {
 }
 
 .recover-define {
-    padding: 48px 0;
+    margin: 0 0 24px 0;
+    padding:12px;
+    background: $blue;
 
     h3 {
-        color: $dark-color;
+        color: white;
     }
 
     p {
-        color: $dark-color;
+        color: white;
+    }
+    a {
+      color: white;
     }
 }
 
@@ -220,7 +227,7 @@ body {
 }
 
 .mobile-nav ul, ul.top-mobile-nav {
-    background: white;
+    // background: white;
     float: none;
     height: 0;
     width: 100%;
@@ -232,11 +239,22 @@ body {
     display: block;
     height: auto;
     padding: 0;
+    background: none;
+    padding: 24px 0;
 
     li {
-        background: white;
+        // background: white;
         padding: 12px 0;
         margin: 0;
+        text-align: center;
+        a {
+          color: $dark-color;
+          text-decoration: none;
+          font-weight: 500;
+          &:hover {
+            color: $blue;
+          }
+        }
     }
 
     hr {
@@ -446,7 +464,7 @@ section:not([expanded]) span.collapsed {
 .site-footer {
     margin: 0 auto;
     padding: ($rs * 3) $rs;
-    width: 100%;
+    // width: 100%;
     max-width: 700px;
     font-size: $rs / 4 * 3;
     text-align: center;
@@ -549,6 +567,7 @@ section:not([expanded]) span.collapsed {
         line-height: 27px;
       }
     }
+  }
     a {
       color: #333333;
       text-decoration: underline;
@@ -587,7 +606,7 @@ section:not([expanded]) span.collapsed {
       p {
         letter-spacing: 0.01rem;
         font-weight: 400;
-        mborder-left: 3px solid #57ad68;
+        mborder-left: 3px solid $blue;
         mpadding-left: 20px;
         mmargin-left: -26px;
         padding-bottom: 3px;
@@ -742,13 +761,13 @@ section:not([expanded]) span.collapsed {
         blockquote {
             margin: 0 0 30px;
             margin-left: -26px;
-            border-left: 3px solid #57ad68;
+            border-left: 3px solid $blue;
             padding-left: 20px;
 
             p {
                 letter-spacing: 0.01rem;
                 font-weight: 400;
-                mborder-left: 3px solid #57ad68;
+                mborder-left: 3px solid $blue;
                 mpadding-left: 20px;
                 mmargin-left: -26px;
                 padding-bottom: 3px;
@@ -809,6 +828,7 @@ section:not([expanded]) span.collapsed {
             .bio {
                 margin-top: 18px;
                 margin-bottom: 18px;
+                line-height: 1.5;
             }
 
             .username {
