@@ -8,13 +8,20 @@
 		{% include logotype.svg %}
 	</div>
 	<ul>
+	<li>
+							<a class="mobile-page-link" href="/">Home</a>
+
+						</li>
+						<hr>
 		{% for my_page in site.pages %}
 					{% if my_page.title %}
+						{% if my_page.title != "Home" %}
 						<li>
 							<a class="mobile-page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
 
 						</li>
 						<hr>
+					{% endif %}
 					{% endif %}
 				{% endfor %}
 	</ul>
@@ -22,13 +29,13 @@
 
 <footer class="site-footer">
 
-  <div class="recover-define">
+<!--   <div class="recover-define">
   	<h3>What Is Recovery?</h3>
   	<p>
   		"A process of change through which individuals work to improve their own health and well-being, live a self-directed life, and strive to achieve their full potential." <br><br>
   		- <a href="http://store.samhsa.gov/shin/content/PEP12-RECDEF/PEP12-RECDEF.pdf" target="_blank">Substance Abuse and Mental Health Administration</a>
   	</p>
-  </div>
+  </div> -->
 
     <div class="inner">
       <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> RSS Feed</span></a>

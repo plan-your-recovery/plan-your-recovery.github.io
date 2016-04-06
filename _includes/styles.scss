@@ -88,13 +88,13 @@ body {
 
 
     .logo {
-        width: 80px;
-        height: 80px;
+        width: 60px;
+        height: 60px;
         color: $blue;
 
         svg {
-            width: 80px;
-            height: 80px;
+            width: 60px;
+            height: 60px;
             fill: currentColor;
         }
 
@@ -349,7 +349,7 @@ section:not([expanded]) span.collapsed {
 .content {
     width: 100%;
     max-width: 700px;
-    margin: 25px auto 0 auto;
+    margin: 24px auto 48px auto;
 
     @include box-sizing(border-box);
 
@@ -379,6 +379,7 @@ section:not([expanded]) span.collapsed {
             line-height: 1.15;
             margin: 0 0;
             color: $dark-color;
+            margin-bottom: 12px;
 
             a {
                 text-decoration: none;
@@ -462,21 +463,23 @@ section:not([expanded]) span.collapsed {
 }
 
 .site-footer {
+    background: $dark-color;
     margin: 0 auto;
     padding: ($rs * 3) $rs;
     // width: 100%;
-    max-width: 700px;
+    max-width: 100%;
     font-size: $rs / 4 * 3;
     text-align: center;
-    color: #999999;
+    color: #fff;
     line-height: $rs * 1.1;
 
     a {
-        color: #666666;
+        color: white;
         text-decoration: none;
 
         &:hover {
-            color: #333333;
+            color: #fff;
+            text-decoration: underline;
         }
     }
 }
@@ -755,7 +758,7 @@ section:not([expanded]) span.collapsed {
             width: 15%;
             margin: 30px auto;
             border: 0px solid #dddddd;
-            border-top: 1px solid $blue;
+            border-top: 1px solid $dark-color;
         }
 
         blockquote {
@@ -810,7 +813,7 @@ section:not([expanded]) span.collapsed {
             width: 15%;
             margin: 16px 0 16px 100px;
             border: 0px solid #dddddd;
-            border-top: 1px solid $blue;
+            border-top: 1px solid $dark-color;
         }
 
         .isLeft {
