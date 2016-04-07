@@ -12,7 +12,7 @@ description: >
   A place for answers about addiction and recovery.
 logo: "/assets/images/pyr-logo.svg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://plan-your-recovery.github.io" # the base hostname & protocol for your site
+url: "http://planyourrecovery.com" # the base hostname & protocol for your site
 paginate:	8 # The number of posts to show per page on your homepage
 
 name: 'Ned Presnall'
