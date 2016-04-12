@@ -330,7 +330,7 @@ section:not([expanded]) span.collapsed {
     }
 
     &.--page-header {
-        min-height: 30vw;
+        min-height: 20vw;
         background-image: none;
         background: none;
         background-color: $blue;
@@ -928,6 +928,21 @@ section:not([expanded]) span.collapsed {
                 }
             }
         }
+    }
+}
+
+.video-container {
+    margin-bottom: 96px;
+    padding-bottom: 60px;
+    border-bottom: 1px solid rgba($dark-color,.2);
+
+    .embed-instruct {
+        background: #f4f4f4;
+        padding: 12px;
+    }
+
+    p, h4 {
+        color: rgba($dark-color, .6);
     }
 }
 
