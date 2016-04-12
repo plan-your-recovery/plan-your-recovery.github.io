@@ -6,19 +6,28 @@
  
     {{ content }}
     <amp-analytics type="googleanalytics" id="analytics1">
-<script type="application/json">
-{
-  "vars": {
-    "account": "UA-41517613-1"  // Replace with your property ID.
-  },
-  "triggers": {
-    "trackPageview": {  // Trigger names can be any string. trackPageview is not a required name.
-      "on": "visible",
-      "request": "pageview"
+  <script type="application/json">
+  {
+    "vars": {
+      "account": "UA-41517613-1"  
+    },
+    "triggers": {
+      "trackPageview": {
+        "on": "visible",
+        "request": "pageview"
+      },
+      "trackEvent": {
+        "selector": "#twitter-share",
+        "on": "click",
+        "request": "event",
+        "vars": {
+          "eventCategory": "ui-components",
+          "eventAction": "click"
+        }
+      }
     }
   }
-}
-</script>
-</amp-analytics>
+  </script>
+  </amp-analytics>
   </body>
 </html>
