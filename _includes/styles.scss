@@ -114,7 +114,7 @@ body {
 
     @include box-sizing(border-box);
 
-    @include respond-to(870) {
+    @include respond-to(960) {
         padding: 12px;
         text-align: center;
     }
@@ -131,7 +131,7 @@ body {
             fill: currentColor;
         }
 
-        @include respond-to(870) {
+        @include respond-to(960) {
             width: 120px;
             height: 120px;
 
@@ -155,7 +155,7 @@ body {
             float: right;
             margin: 0 12px;
 
-            @include respond-to(870) {
+            @include respond-to(960) {
                 width: 100%;
                 text-align: center;
                 padding: 6px 0;
@@ -178,7 +178,7 @@ body {
 
 
     ul.main-nav {
-        @include respond-to(870) {
+        @include respond-to(960) {
             display: none;
         }
     }
@@ -186,7 +186,7 @@ body {
     a.mobile-menu-link {
         display: none;
 
-        @include respond-to(870) {
+        @include respond-to(960) {
             display: block;
             width: 100%;
             color: $dark-color;
@@ -202,7 +202,7 @@ body {
 .mobile-nav {
     display: none;
 
-    @include respond-to(870) {
+    @include respond-to(960) {
         display: block;
         margin-bottom: 12px;
         background: #f4f4f4;
@@ -386,7 +386,7 @@ section:not([expanded]) span.collapsed {
 
     @include box-sizing(border-box);
 
-    @include respond-to(870) {
+    @include respond-to(960) {
         padding: 0 ($rs * 1);
     }
 
@@ -598,7 +598,7 @@ section:not([expanded]) span.collapsed {
       -moz-hyphens: auto;
       -ms-hyphens: auto;
           hyphens: auto;
-      @include respond-to(870){
+      @include respond-to(960){
         font-size: 18px;
         line-height: 27px;
       }
@@ -753,7 +753,7 @@ section:not([expanded]) span.collapsed {
             -ms-hyphens: auto;
             hyphens: auto;
 
-            @include respond-to(870) {
+            @include respond-to(960) {
                 font-size: 18px;
                 line-height: 27px;
             }
@@ -855,7 +855,7 @@ section:not([expanded]) span.collapsed {
 
             @include box-sizing(border-box);
 
-            @include respond-to(870) {
+            @include respond-to(960) {
                 width: 100%;
                 padding-bottom: $rs * 2;
             }
@@ -926,7 +926,7 @@ section:not([expanded]) span.collapsed {
 
             @include box-sizing(border-box);
 
-            @include respond-to(870) {
+            @include respond-to(960) {
                 width: 100%;
             }
 

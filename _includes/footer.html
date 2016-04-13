@@ -1,49 +1,42 @@
-
 <nav id="bottom-menu" class="mobile-nav">
 	<div class="mobile-nav-header">
 		<p class="bottom-logo">
-					{% include pyr-wing.svg %}
-
+			{% include pyr-wing.svg %}
 		</p>
 		{% include logotype.svg %}
 	</div>
 	<ul>
-	<li>
-							<a class="mobile-page-link" href="/">Home</a>
-
-						</li>
-						<hr>
+		<li>
+			<a class="mobile-page-link" href="/">Home</a>
+		</li>
+		<hr>
 		{% for my_page in site.pages %}
-					{% if my_page.title %}
-						{% if my_page.title != "Home" %}
-						<li>
-							<a class="mobile-page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-
-						</li>
-						<hr>
-					{% endif %}
-					{% endif %}
-				{% endfor %}
+			{% if my_page.title %}
+				{% if my_page.title != "Home" %}
+					<li>
+						<a class="mobile-page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+					</li>
+					<hr>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
 	</ul>
 </nav>
-<div class="sign-up-bar">
-<a href="http://eepurl.com/bXO-AD" class="sign-up clearfix">
-	<span class="email-icon">
-		{% include email.svg %}
-	</span>
-	<span class="sign-up-text">Stay informed! Join our mailing list.</span>
-</a>
-</div>
+{% if page.title != "Home" %}
+	<div class="sign-up-bar">
+		<a href="http://eepurl.com/bXO-AD" class="sign-up clearfix">
+			<span class="email-icon">
+				{% include email.svg %}
+			</span>
+			<span class="sign-up-text">Stay informed! Join our mailing list.</span>
+		</a>
+	</div>
+{% endif %}
 <footer class="site-footer">
-
-
-
-    <div class="inner">
-      <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> RSS Feed</span></a>
-
-         <section class="copyright">All content &copy; {{ site.time | date: '%Y' }} <a href="mailto:{{ site.email}}">{{ site.name }}</a> <br>
-         All rights reserved.</section>
-         <section class="poweredby">Site built by <a href="http://nickniles.com"> Nick Niles</a> </section>
-    </div>
-
+	<div class="inner">
+		<a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> RSS Feed</span></a>
+		<section class="copyright">All content &copy; {{ site.time | date: '%Y' }} <a href="mailto:{{ site.email}}">{{ site.name }}</a> <br>
+	All rights reserved.</section>
+	<section class="poweredby">Site built by <a href="http://nickniles.com"> Nick Niles</a> </section>
+</div>
 </footer>
