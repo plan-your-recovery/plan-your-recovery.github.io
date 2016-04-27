@@ -6,14 +6,15 @@
 @import 'pyr';
 
 
-// .top-bar {
-//     border-bottom: 1px solid #ddd;
+.top-bar {
+  background: white;
+    // border-bottom: 1px solid #ddd;
 
-//     li.active a {
-//         color: black;
-//     }
+    li.active a {
+        color: black;
+    }
 
-//     ul li >a {
-//       color: #ccc;
-//     }
-// }
+    ul li >a {
+      color: #ccc;
+    }
+}

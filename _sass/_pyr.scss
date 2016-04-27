@@ -16,6 +16,16 @@ $blue: #0098ff;
     }
 }
 
+.logo svg {
+    fill: $blue;
+    width: 36px;
+    height: 36px;
+}
+
+.top-bar ul {
+    background: none;
+}
+
 .sign-up-bar {
     width: 100%;
     height: 60px;
