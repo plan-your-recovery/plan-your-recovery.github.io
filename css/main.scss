@@ -1,6 +1,7 @@
 ---
 ---
 
+@import 'settings';
 @import 'foundation';
 @include foundation-everything;
 @import 'pyr';
@@ -10,11 +11,6 @@
   background: white;
     // border-bottom: 1px solid #ddd;
 
-    li.active a {
-        color: black;
-    }
 
-    ul li >a {
-      color: #ccc;
-    }
+ 
 }
