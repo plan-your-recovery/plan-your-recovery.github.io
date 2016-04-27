@@ -5,12 +5,12 @@
 			<!-- <amp-img src="{{ site.baseurl }}{{ site.logo }}" width="100" height="56" /> -->
 			</span>
 		</a>
-		<a class="mobile-menu-link" href="#bottom-menu">Menu</a>
+		<!-- <a class="mobile-menu-link" href="#bottom-menu">Menu</a> -->
 
 
 
 
-			<ul class="main-nav">
+<!-- 			<ul class="main-nav">
 				{% for my_page in site.pages %}
 					{% if my_page.title != "Home" %}
 						<li>
@@ -18,6 +18,20 @@
 						</li>
 					{% endif %}
 				{% endfor %}
-			</ul>
+			</ul> -->
+
+			    <ul class="dropdown menu" data-dropdown-menu>
+      <li class="menu-text">Site Title</li>
+      <li>
+        <a href="#">One</a>
+        <ul class="menu vertical">
+          <li><a href="#">One</a></li>
+          <li><a href="#">Two</a></li>
+          <li><a href="#">Three</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Two</a></li>
+      <li><a href="#">Three</a></li>
+    </ul>
 		<!-- </div> -->
 	</header>

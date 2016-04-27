@@ -1,22 +1,7 @@
-@import "bourbon/bourbon";
-@import "syntax-highlighting";
-
 $grey-color: #8E9698;
 $dark-color: #3d474c;
 $dark-color: #35464c;
 $blue: #0098ff;
-
-html {
-    webkit-font-smoothing: antialiased;
-}
-
-ul {
-    -webkit-margin-before: 0;
-    -webkit-margin-after: 0;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-    -webkit-padding-start: 0;
-}
 
 .icon {
     > svg {
@@ -36,8 +21,6 @@ ul {
     height: 60px;
     text-align: center;
 
-
-
     a {
         display: inline-block;
         background: $blue;
@@ -48,7 +31,8 @@ ul {
         text-align: center;
         font-size: 18px;
         font-weight: 500;
-        padding:18px;
+        padding: 18px;
+
         &:hover {
             background: #018FEF;
         }
@@ -63,24 +47,10 @@ ul {
     }
 }
 
-amp-img {
-    // background-color: grey;
-}
-
-.cf {
-    @include clearfix;
-}
-
 $rs: 16px;
 
 $font-serif: Georgia, Cambria, "Times New Roman", Times, "Lora", serif;
 $font-sans: "Helvetica Neue", system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-
-@mixin respond-to($breakpoint) {
-    @media only screen and (max-width: $breakpoint + px) {
-        @content;
-    }
-}
 
 // Only needed for syntax highlighting
 %vertical-rhythm {
@@ -102,200 +72,6 @@ body {
     -o-font-feature-settings: "liga", "dlig";
     font-feature-settings: "liga", "dlig";
     color: $dark-color;
-}
-
-.site-header {
-    position: relative;
-    width: 100%;
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 12px;
-    border-bottom: 1px solid $blue;
-
-    @include box-sizing(border-box);
-
-    @include respond-to(960) {
-        padding: 12px;
-        text-align: center;
-    }
-
-
-    .logo {
-        width: 60px;
-        height: 60px;
-        color: $blue;
-
-        svg {
-            width: 60px;
-            height: 60px;
-            fill: currentColor;
-        }
-
-        @include respond-to(960) {
-            width: 120px;
-            height: 120px;
-
-            svg {
-                width: 120px;
-                height: 120px;
-            }
-        }
-    }
-
-    ul.main-nav {
-        float: right;
-        list-style-type: none;
-        display: inline-block;
-        width: 80%;
-        margin: 0;
-        margin-top: 24px;
-
-        li {
-            display: inline-block;
-            float: right;
-            margin: 0 12px;
-
-            @include respond-to(960) {
-                width: 100%;
-                text-align: center;
-                padding: 6px 0;
-                float: none;
-            }
-
-
-            a {
-                text-decoration: none;
-                color: $dark-color;
-                font-weight: 700;
-
-                &:hover {
-                    color: $blue;
-                }
-            }
-        }
-    }
-
-
-
-    ul.main-nav {
-        @include respond-to(960) {
-            display: none;
-        }
-    }
-
-    a.mobile-menu-link {
-        display: none;
-
-        @include respond-to(960) {
-            display: block;
-            width: 100%;
-            color: $dark-color;
-            font-weight: 500;
-            font-size: 14px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            text-decoration: none;
-        }
-    }
-}
-
-.mobile-nav {
-    display: none;
-
-    @include respond-to(960) {
-        display: block;
-        margin-bottom: 12px;
-        background: #f4f4f4;
-        // position: fixed;
-        // top:0;
-        // left:0;
-        // right:0;
-        // padding: 0;
-        // box-shadow: 0 1px 5px rgba(0,0,0,.2);
-    }
-}
-
-.recover-define {
-    margin: 0 0 24px 0;
-    padding:12px;
-    background: $blue;
-
-    h3 {
-        color: white;
-    }
-
-    p {
-        color: white;
-    }
-    a {
-      color: white;
-    }
-}
-
-.mobile-nav-header {
-    background: white;
-    padding: 12px;
-    text-align: center;
-
-    svg {
-        fill: none;
-        stroke: $blue;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 4px;
-        width: 240px;
-        height: 32px;
-        max-width: 240px;
-        max-height: 32px;
-        margin: 0 auto;
-    }
-
-    p.bottom-logo svg {
-        fill: $blue;
-        stroke: none;
-        stroke-width: 0;
-        width: 50px;
-        height: 50px;
-    }
-}
-
-.mobile-nav ul, ul.top-mobile-nav {
-    // background: white;
-    float: none;
-    height: 0;
-    width: 100%;
-}
-
-.mobile-nav ul, ul.top-mobile-nav {
-    width: 100%;
-    margin: 0;
-    display: block;
-    height: auto;
-    padding: 0;
-    background: none;
-    padding: 24px 0;
-
-    li {
-        // background: white;
-        padding: 12px 0;
-        margin: 0;
-        text-align: center;
-        a {
-          color: $dark-color;
-          text-decoration: none;
-          font-weight: 500;
-          &:hover {
-            color: $blue;
-          }
-        }
-    }
-
-    hr {
-        max-width: 50px;
-        border: none;
-        border-top: 1px solid $blue;
-        margin: 0 auto;
-    }
 }
 
 section[expanded] span.expanded {
@@ -323,9 +99,6 @@ section:not([expanded]) span.collapsed {
     background-color: $blue;
     background: url(/assets/images/archie-light-blue.jpg) no-repeat 50% 50%;
     background-size: cover;
-
-    @include box-sizing(border-box);
-
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
@@ -383,13 +156,6 @@ section:not([expanded]) span.collapsed {
     width: 100%;
     max-width: 700px;
     margin: 24px auto 48px auto;
-
-    @include box-sizing(border-box);
-
-    @include respond-to(960) {
-        padding: 0 ($rs * 1);
-    }
-
 
     article {
         padding: 20px 0;
@@ -499,6 +265,7 @@ section:not([expanded]) span.collapsed {
     background: $dark-color;
     margin: 0 auto;
     padding: ($rs * 3) $rs;
+
     // width: 100%;
     max-width: 100%;
     font-size: $rs / 4 * 3;
@@ -518,155 +285,165 @@ section:not([expanded]) span.collapsed {
 }
 
 .post {
+    .post-meta {
+        font-family: $font-sans;
+    }
 
-  .post-meta {
-    font-family: $font-sans;
-  }
-  .post-title {
-    font-weight: 700;
-    font-style: normal;
-    letter-spacing: -0.04em;
-    font-size: 50px;
-    line-height: 1.1;
-    color: $dark-color;
-    margin-bottom: 50px;
-  }
-  .author-image {
-    background-image: url({{ site.baseurl }}/{{site.author_image}});
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
-    margin-right: 8px;
-    margin-bottom: -10px;
-    float: left;
-    background-size: cover;
-    border-radius: 100%;
-    text-indent: -9999px;
-  }
-  .post-meta-text {
-    color: #b3b3b1;
-    letter-spacing: -0.02em;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 14px;
-    overflow: hidden;
-    font-family: $font-sans;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-  }
+    .post-title {
+        font-weight: 700;
+        font-style: normal;
+        letter-spacing: -0.04em;
+        font-size: 50px;
+        line-height: 1.1;
+        color: $dark-color;
+        margin-bottom: 50px;
+    }
 
-  .post-content {
-    width: 100%;
-    font-family: $font-serif;
-    color: $dark-color;
-    h1, h2, h3 {
-      font-family: $font-sans;
+    .author-image {
+        //background-image: url({{ site.baseurl }}/{{site.author_image}});
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin-right: 8px;
+        margin-bottom: -10px;
+        float: left;
+        background-size: cover;
+        border-radius: 100%;
+        text-indent: -9999px;
     }
-    h3, h4, h5, h6 {
-      letter-spacing: -0.02em;
-      font-weight: 700;
-      font-style: normal;
-      font-size: 24px;
-      line-height: 1.3;
-      margin-top: 50px;
-      margin-bottom: 0px;
-      font-family: $font-sans;
-    }
-    h3 {
-      font-size: 36px;
-    }
-    h2, h1 {
-      letter-spacing: -0.02em;
-      font-weight: 700;
-      font-style: normal;
-      font-size: 42px;
-      line-height: 1.2;
-      margin-top: 50px;
-      margin-bottom: 0px;
-    }
-    p {
-      font-weight: 400;
-      font-style: normal;
-      font-size: 22px;
-      line-height: 1.59;
-      letter-spacing: -.002em;
-      margin-top: 30px;
-      margin-bottom: 0;
-      color: lighten($dark-color, 5%);
-      -webkit-hyphens: auto;
-      -moz-hyphens: auto;
-      -ms-hyphens: auto;
-          hyphens: auto;
-      @include respond-to(960){
-        font-size: 18px;
-        line-height: 27px;
-      }
-    }
-  }
-    a {
-      color: #333333;
-      text-decoration: underline;
-    }
-    amp-img, amp-youtube {
-      margin-top: 30px;
-    }
-    figure {
-      margin: 0;
-      padding: 0 0 30px;
-    }
-    figcaption {
-      font-weight: 400;
-      font-style: italic;
-      font-size: 16px;
-      line-height: 1.3;
-      color: #666665;
-      outline: 0;
-      z-index: 300;
-      text-align: center;
-    }
-    hr {
-      border: 0;
-      padding: 0;
-      display: block;
-      width: 15%;
-      margin: 30px auto;
-      border: 0px solid #dddddd;
-      border-top: 1px solid $blue;
-    }
-    blockquote {
-      margin: 0 0 30px;
-      margin-left: -26px;
-      border-left: 3px solid $blue;
-      padding-left: 20px;
-      p {
-        letter-spacing: 0.01rem;
+
+    .post-meta-text {
+        color: #b3b3b1;
+        letter-spacing: -0.02em;
         font-weight: 400;
-        mborder-left: 3px solid $blue;
-        mpadding-left: 20px;
-        mmargin-left: -26px;
-        padding-bottom: 3px;
-      }
+        font-style: normal;
+        font-size: 14px;
+        overflow: hidden;
+        font-family: $font-sans;
+        white-space: nowrap;
+        text-overflow: ellipsis;
     }
+
+    .post-content {
+        width: 100%;
+        font-family: $font-serif;
+        color: $dark-color;
+
+        h1, h2, h3 {
+            font-family: $font-sans;
+        }
+
+        h3, h4, h5, h6 {
+            letter-spacing: -0.02em;
+            font-weight: 700;
+            font-style: normal;
+            font-size: 24px;
+            line-height: 1.3;
+            margin-top: 50px;
+            margin-bottom: 0px;
+            font-family: $font-sans;
+        }
+
+        h3 {
+            font-size: 36px;
+        }
+
+        h2, h1 {
+            letter-spacing: -0.02em;
+            font-weight: 700;
+            font-style: normal;
+            font-size: 42px;
+            line-height: 1.2;
+            margin-top: 50px;
+            margin-bottom: 0px;
+        }
+
+        p {
+            font-weight: 400;
+            font-style: normal;
+            font-size: 22px;
+            line-height: 1.59;
+            letter-spacing: -.002em;
+            margin-top: 30px;
+            margin-bottom: 0;
+            color: lighten($dark-color, 5%);
+            -webkit-hyphens: auto;
+            -moz-hyphens: auto;
+            -ms-hyphens: auto;
+            hyphens: auto;
+        }
+    }
+
+    a {
+        color: #333333;
+        text-decoration: underline;
+    }
+
+    figure {
+        margin: 0;
+        padding: 0 0 30px;
+    }
+
+    figcaption {
+        font-weight: 400;
+        font-style: italic;
+        font-size: 16px;
+        line-height: 1.3;
+        color: #666665;
+        outline: 0;
+        z-index: 300;
+        text-align: center;
+    }
+
+    hr {
+        border: 0;
+        padding: 0;
+        display: block;
+        width: 15%;
+        margin: 30px auto;
+        border: 0px solid #dddddd;
+        border-top: 1px solid $blue;
+    }
+
+    blockquote {
+        margin: 0 0 30px;
+        margin-left: -26px;
+        border-left: 3px solid $blue;
+        padding-left: 20px;
+
+        p {
+            letter-spacing: 0.01rem;
+            font-weight: 400;
+            mborder-left: 3px solid $blue;
+            mpadding-left: 20px;
+            mmargin-left: -26px;
+            padding-bottom: 3px;
+        }
+    }
+
     ul, ol {
-      padding: 30px 0;
-      margin: 0;
+        padding: 30px 0;
+        margin: 0;
     }
+
     li {
-      padding: 0;
-      font-weight: 400;
-      font-style: normal;
-      font-size: 23px;
-      line-height: 30px;
-      margin-left: 30px;
-      margin-bottom: 12px;
-      padding-top: 2px;
-      p {
-        padding: 0 0 golden-ratio(1rem, 1);
-      }
+        padding: 0;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 23px;
+        line-height: 30px;
+        margin-left: 30px;
+        margin-bottom: 12px;
+        padding-top: 2px;
+
+        p {
+            padding: 0 0 golden-ratio(1rem, 1);
+        }
     }
+
     ol li {
-      list-style-type: decimal;
+        list-style-type: decimal;
     }
 
     .post-title {
@@ -753,7 +530,7 @@ section:not([expanded]) span.collapsed {
             -ms-hyphens: auto;
             hyphens: auto;
 
-            @include respond-to(960) {
+            @include breakpoint(960px) {
                 font-size: 18px;
                 line-height: 27px;
             }
@@ -762,10 +539,6 @@ section:not([expanded]) span.collapsed {
         a {
             color: #333333;
             text-decoration: underline;
-        }
-
-        amp-img, amp-youtube {
-            margin-top: 30px;
         }
 
         figure {
@@ -853,14 +626,6 @@ section:not([expanded]) span.collapsed {
             float: left;
             width: 100%;
 
-            @include box-sizing(border-box);
-
-            @include respond-to(960) {
-                width: 100%;
-                padding-bottom: $rs * 2;
-            }
-
-
             .bio {
                 margin-top: 18px;
                 margin-bottom: 18px;
@@ -924,13 +689,6 @@ section:not([expanded]) span.collapsed {
             float: right;
             width: 47%;
 
-            @include box-sizing(border-box);
-
-            @include respond-to(960) {
-                width: 100%;
-            }
-
-
             .index-headline {
                 padding-bottom: 32px;
             }
@@ -967,7 +725,7 @@ section:not([expanded]) span.collapsed {
 .video-container {
     margin-bottom: 96px;
     padding-bottom: 60px;
-    border-bottom: 1px solid rgba($dark-color,.2);
+    border-bottom: 1px solid rgba($dark-color, 0.2);
 
     .embed-instruct {
         background: #f4f4f4;
@@ -975,7 +733,7 @@ section:not([expanded]) span.collapsed {
     }
 
     p, h4 {
-        color: rgba($dark-color, .6);
+        color: rgba($dark-color, 0.6);
     }
 }
 

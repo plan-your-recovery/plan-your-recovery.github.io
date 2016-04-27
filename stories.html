@@ -16,7 +16,10 @@ permalink: /stories/
   <div class="cf frame">
    {% for post in site.data.stories %}
      <h2>{{ post.title }}</h2>
-     <amp-youtube data-videoid="{{post.id}}" layout="responsive" width="480" height="270"></amp-youtube>
+           <div class="videoWrapper">
+        <iframe width="853" height="480" src="https://www.youtube.com/embed/{{post.id}}" frameborder="0" allowfullscreen></iframe>
+      </div>
+     <!-- <amp-youtube data-videoid="{{post.id}}" layout="responsive" width="480" height="270"></amp-youtube> -->
     {% endfor %}
   </div>
 

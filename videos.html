@@ -11,18 +11,18 @@ permalink: /videos/
 <main class="content" role="main">
 <div class="cf frame">
   {% for post in site.data.videos %}
-    <div class="video-container">     
-    <h2>{{ post.title }}</h2>
-    <amp-youtube data-videoid="{{post.id}}" layout="responsive" width="480" height="270"></amp-youtube>
-
-    <div class="embed-instruct"><h4>Embed this video on your site.</h4>
+    <div class="video-container">
+      <h2>{{ post.title }}</h2>
+      <div class="videoWrapper">
+        <iframe width="853" height="480" src="https://www.youtube.com/embed/{{post.id}}" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <!-- <amp-youtube data-videoid="{{post.id}}" layout="responsive" width="480" height="270"></amp-youtube> -->
+      <div class="embed-instruct"><h4>Embed this video on your site.</h4>
         <p>Simply copy the following code and paste it in the code of your web page:</p>
-        {% highlight html %}<iframe width="853" height="480" src="https://www.youtube.com/embed/{{post.id}}" frameborder="0" allowfullscreen></iframe>{% endhighlight %}
+      {% highlight html %}<iframe width="853" height="480" src="https://www.youtube.com/embed/{{post.id}}" frameborder="0" allowfullscreen></iframe>{% endhighlight %}
     </div>
-
   </div>
 {% endfor %}
-
 </div>
 </main>
 {% include footer.html %}
