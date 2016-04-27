@@ -13,13 +13,17 @@ layout: default
     </section>
     <footer class="post-footer">
       <section class="share">
+      Share on
         <a id="twitter-share" class="icon" href="http://twitter.com/share?text={{page.title | cgi_escape}}&amp;url={{site.url}}{{page.id}}" target="_blank">
-          Share on
-          {% include icon-twitter.html %}
+         
+          {% include icon-twitter.svg %}
         </a>
+            <a class="icon" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"> {% include icon-facebook.svg %}</a>
+
       </section>
     </footer>
-    <div class="bottom-teaser cf">
+
+    <div class="bottom-teaser clearfix">
       <div class="isLeft">
         <h5 class="index-headline featured"><span>Written by</span></h5>
         <section class="author">
@@ -47,6 +51,26 @@ layout: default
       </div>
       {{/post}}
     </div>
+        <div id="disqus_thread"></div>
+
   </article>
 </main>
 {% include footer.html %}
+<script>
+
+
+var disqus_config = function () {
+this.page.url = "{{ page.url | replace:'index.html','' | prepend: site.github.url | prepend: site.url }}"; 
+this.page.identifier = "{{site.url}}{{page.id}}"; 
+};
+
+(function() { 
+var d = document, s = d.createElement('script');
+
+s.src = '//planyourrecovery.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>

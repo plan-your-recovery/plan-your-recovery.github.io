@@ -4,15 +4,21 @@ $dark-color: #35464c;
 $blue: #0098ff;
 
 .icon {
+    color: $grey-color;
+
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 36px;
+        height: 36px;
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: currentColor;
         }
+    }
+
+    &:hover {
+        color: $blue;
     }
 }
 
@@ -310,7 +316,7 @@ section:not([expanded]) span.collapsed {
     }
 
     .author-image {
-        //background-image: url({{ site.baseurl }}/{{site.author_image}});
+        background-image: url(/assets/images/ned_presnall.jpg);
         display: inline-block;
         width: 30px;
         height: 30px;
@@ -621,6 +627,7 @@ section:not([expanded]) span.collapsed {
     .bottom-teaser {
         padding: 50px 0 0 0;
         font-family: $font-sans;
+        margin-bottom: 72px;
 
         hr {
             border: 0;
