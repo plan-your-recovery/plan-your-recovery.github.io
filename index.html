@@ -27,13 +27,21 @@ title: Home
           <header class="post-header">
             <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
           </header>
-          <section class="post-excerpt" itemprop="description">
-            <a class="excerpt" href="{{ site.baseurl }}{{ post.url }}">
-                        {{ post.excerpt | truncatewords: 50 }}
+                 {% if post.subtitle %}
+                  <section class="post-excerpt" itemprop="description">
+          <a class="excerpt" href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.subtitle | strip_html | truncatewords: 50 }}
             
-                       </a>
-            <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="more-link" itemprop="url">Read More</a> -->
-          </section>
+          </a>
+        </section>
+        {% else %}
+        <section class="post-excerpt" itemprop="description">
+          <a class="excerpt" href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.excerpt | strip_html | truncatewords: 50 }}
+            
+          </a>
+        </section>        
+        {% endif %}
           <div class="post-meta">
             <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
           </div>

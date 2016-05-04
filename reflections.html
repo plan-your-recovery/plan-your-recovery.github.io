@@ -4,41 +4,39 @@ title: Reflections
 description: "Personal thoughts of a professional addiction counselor."
 permalink: /reflections/
 ---
-
-  <header class="blog-header --page-header">
-      <h1 class="blog-title">{{ page.title }}</h1>
-      <h2 class="blog-description">{{ page.description }}</h2>
-  </header>
+<header class="blog-header --page-header">
+  <h1 class="blog-title">{{ page.title }}</h1>
+  <h2 class="blog-description">{{ page.description }}</h2>
+</header>
 <main class="content" role="main">
-
-
-  <div class="cf frame">
-    {% for post in site.tags.reflections %}
-      <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-        <div class="article-item">
-          <header class="post-header">
-            <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-          </header>
-          <section class="post-excerpt" itemprop="description">
-             <a class="excerpt" href="{{ site.baseurl }}{{ post.url }}">
-                        {{ post.excerpt | strip_html | truncatewords: 50 }}
+<div class="cf frame">
+  {% for post in site.tags.reflections %}
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+      <div class="article-item">
+        <header class="post-header">
+          <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+        </header>
+        {% if post.subtitle %}
+                  <section class="post-excerpt" itemprop="description">
+          <a class="excerpt" href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.subtitle | strip_html | truncatewords: 50 }}
             
-                       </a>
-          </section>
-          <div class="post-meta">
-            <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-          </div>
+          </a>
+        </section>
+        {% else %}
+        <section class="post-excerpt" itemprop="description">
+          <a class="excerpt" href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.excerpt | strip_html | truncatewords: 50 }}
+            
+          </a>
+        </section>        {% endif %}
+
+        <div class="post-meta">
+          <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
         </div>
-      </article>
-    {% endfor %}
-  </div>
-
-
-
-
-
-
-
+      </div>
+    </article>
+  {% endfor %}
+</div>
 </main>
-
 {% include footer.html %}
