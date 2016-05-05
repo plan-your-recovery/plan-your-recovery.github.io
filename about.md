@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
+excerpt: Plan Your Recovery is brought to you by Ned Presnall and Nick Niles, two family men working in their spare time to bring thoughtful information about addiction and recovery to a wider audience.
 ---
 
 <img src="/assets/images/nick_ned.jpg" alt="">

@@ -14,6 +14,7 @@ logo: "/assets/images/pyr-logo.svg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://planyourrecovery.com" # the base hostname & protocol for your site
 paginate:	8 # The number of posts to show per page on your homepage
+excerpt_separator: <!--more-->
 
 name: 'Ned Presnall'
 bio: >

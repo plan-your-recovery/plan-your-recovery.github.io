@@ -9,6 +9,7 @@ permalink: /questions-answers/what-is-addiction/
 tag: questions-answers
 ---
 If you’ve come to PlanYourRecovery.com, you or someone you love may suffer from addiction. Addiction is one of the most devastating and confusing illnesses that affects people today. About 8% of the U.S. population meets criteria for substance abuse or dependence, and in 2000, the use of tobacco, alcohol, and illicit drugs were three of the top ten causes of death in the United States.
+<!--more-->
 
 It can be confusing to understand all the words used to describe addiction. The manual that doctors and therapists use does not have an &#8220;addiction&#8221; diagnosis. It classifies addictive behaviors such as pathological gambling, anorexia, and kleptomania under various descriptive headings but provides no theoretical link between them. The “substance dependence” diagnosis comes closest to addiction, but the term “dependence” is also confusing. _Physical_ dependence is just one aspect of addiction and not the most important. Devastating relapse often occurs long after physical dependence on a substance has been ended.
 

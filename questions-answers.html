@@ -18,13 +18,20 @@ permalink: /questions-answers/
         <div class="article-item">
           <header class="post-header">
             <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-          </header>
-          <section class="post-excerpt" itemprop="description">
-             <a class="excerpt" href="{{ site.baseurl }}{{ post.url }}">
-                        {{ post.excerpt | strip_html | truncatewords: 50 }}
+             {% if post.subtitle %}
+          <a class="post-subtitle" href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.subtitle | strip_html }}
             
-                       </a>
-          </section>
+          </a>
+        {% endif %}
+          </header>
+              
+        <section class="post-excerpt" itemprop="description">
+          <a class="excerpt" href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.excerpt | strip_html }}
+            
+          </a>
+        </section>        
           <div class="post-meta">
             <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
           </div>

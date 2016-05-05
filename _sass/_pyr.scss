@@ -49,6 +49,10 @@ $blue: #0098ff;
     width: 100%;
     height: 60px;
     text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
 
     a {
         display: inline-block;
@@ -64,6 +68,14 @@ $blue: #0098ff;
 
         &:hover {
             background: #018FEF;
+        }
+    }
+
+    .close-button {
+        color: white;
+
+        &:hover {
+            color: $dark-color;
         }
     }
 
@@ -298,6 +310,7 @@ section:not([expanded]) span.collapsed {
     background: $dark-color;
     margin: 0 auto;
     padding: ($rs * 3) $rs;
+    padding-bottom: 84px;
 
     // width: 100%;
     max-width: 100%;
@@ -329,7 +342,15 @@ section:not([expanded]) span.collapsed {
         font-size: 50px;
         line-height: 1.1;
         color: $dark-color;
-        margin-bottom: 50px;
+        margin-bottom: 12px;
+    }
+
+    .post-subtitle {
+        font-size: 24px;
+        text-decoration: none;
+        font-weight: 300;
+        margin: 0;
+        color: $grey-color;
     }
 
     .author-image {
