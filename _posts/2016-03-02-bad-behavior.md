@@ -1,7 +1,7 @@
 ---
 id: 167
 title: Bad Behavior
-Subtitle: The ugly illness of alcoholism and addiction
+subtitle: The ugly illness of alcoholism and addiction
 date: 2016-03-02T16:18:40+00:00
 author: Nick Niles
 layout: post
@@ -10,7 +10,6 @@ Excerpt: A couple weeks ago, my wife, kids, and I boarded a plane home from the
 permalink: /reflections/bad-behavior/
 tag: reflections
 ---
-https://github.com/plan-your-recovery/plan-your-recovery.github.io/blob/master/_posts/%7B%7B%20site.github.url%20%7D%7D/assets/images/pyr_share.png
   A couple weeks ago, my wife, kids, and I boarded a plane home from the &#8220;happiest place on earth.&#8221; We&#8217;d gone to Disney World so that my partners and I could attend Mass General&#8217;s course on evidence-based treatments for addiction. As the plane taxied to the runway, we became aware of a heated exchange from the row just in front of us. Apparently, a woman had boarded the plane intoxicated, and another passenger had complained about her condition. <!--more--> In the next 10 minutes, a series of capable flight attendants came to speak with the woman and assess her physical and mental state.  She deflected their questions with drunken bombast. As her eyes drooped with sedation, she insisted that the passenger who complained was the one causing problems.
 
 
