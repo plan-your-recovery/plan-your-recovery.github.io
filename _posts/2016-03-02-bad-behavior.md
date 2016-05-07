@@ -1,10 +1,12 @@
 ---
 id: 167
 title: Bad Behavior
+Subtitle: The ugly illness of alcoholism and addiction
 date: 2016-03-02T16:18:40+00:00
 author: Nick Niles
 layout: post
 guid: http://planyourrecovery.com/?p=167
+Excerpt: A couple weeks ago, my wife, kids, and I boarded a plane home from the &#8220;happiest place on earth.&#8221; We&#8217;d gone to Disney World so that my partners and I could attend Mass General&#8217;s course on evidence-based treatments for addiction. As the plane taxied to the runway, we became aware of a heated exchange from the row just in front of us. 
 permalink: /reflections/bad-behavior/
 tag: reflections
 ---
@@ -41,7 +43,6 @@ My wife and I watched while the flight attendants quietly discerned whether or n
 
 
   We&#8217;ll never know the answer to this question but our uncertainty (as well as the reactions of some passengers) demonstrates just how far we are from accepting mental health conditions (and Substance Use Disorders more specifically) as <em>bona fide</em> medical problems. While I don&#8217;t blame our fellow passengers for getting irritated, I hope that, after being escorted off the plane, this physically and mentally impaired woman was offered help rather than isolation or scorn&#8211;that she was treated more like someone having chest pains than someone who had stolen all the peanuts.
-
 
 
 
