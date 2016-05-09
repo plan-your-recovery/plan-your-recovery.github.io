@@ -14,20 +14,20 @@ The reasoning of the Veterans’ Administration and Supreme Court—which holds 
 
 One of the barriers to overcoming the stigma against addiction is our use of terminology. The terms disorder and disease are often used interchangeably, but historically we have referred to psychological problems as disorders and physical problems as diseases. You'll note this discrepancy if you look at the table of contents of the International Classification of Diseases and other Health Problems, a manual used world-wide to classify health problems:
 
-1. Certain infectious and parasitic **diseases** (A00-B99)
-2. Neoplasms (C00-D49)
-3. **Diseases** of the blood and blood-forming organs and certain _**disorders**_ involving the immune mechanism (D50-D89)
-4. Endocrine, nutritional and metabolic **diseases** (E00-E89)
-5. Mental, Behavioral and Neurodevelopmental _**disorders**_ (F01-F99)
-6. **Diseases** of the nervous system (G00-G99)
-7. **Diseases** of the eye and adnexa (H00-H59)
-8. **Diseases** of the ear and mastoid process (H60-H95)
-9. **Diseases** of the circulatory system (I00-I99)
-10. **Diseases** of the respiratory system (J00-J99)
-11. **Diseases** of the digestive system (K00-K95)
-12. **Diseases** of the skin and subcutaneous tissue (L00-L99)
-13. **Diseases** of the musculoskeletal system and connective tissue (M00-M99)
-14. **Diseases** of the genitourinary system (N00-N99)
+Certain infectious and parasitic **diseases** (A00-B99)
+Neoplasms (C00-D49)
+**Diseases** of the blood and blood-forming organs and certain _**disorders**_ involving the immune mechanism (D50-D89)
+Endocrine, nutritional and metabolic **diseases** (E00-E89)
+Mental, Behavioral and Neurodevelopmental _**disorders**_ (F01-F99)
+**Diseases** of the nervous system (G00-G99)
+**Diseases** of the eye and adnexa (H00-H59)
+**Diseases** of the ear and mastoid process (H60-H95)
+**Diseases** of the circulatory system (I00-I99)
+**Diseases** of the respiratory system (J00-J99)
+**Diseases** of the digestive system (K00-K95)
+**Diseases** of the skin and subcutaneous tissue (L00-L99)
+**Diseases** of the musculoskeletal system and connective tissue (M00-M99)
+**Diseases** of the genitourinary system (N00-N99)
 
 Likewise, the American Psychiatric Association’s Diagnostic Statistical Manual of Mental Disorders uses the term "disorder" rather than "disease" to classify all mental and behavioral conditions.
 
