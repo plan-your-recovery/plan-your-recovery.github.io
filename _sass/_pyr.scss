@@ -464,8 +464,8 @@ section:not([expanded]) span.collapsed {
     blockquote {
         margin: 0 0 30px;
         margin-left: -26px;
-        border-left: 3px solid $blue;
         padding-left: 20px;
+        border: none;
 
         p {
             letter-spacing: 0.01rem;
@@ -618,21 +618,19 @@ section:not([expanded]) span.collapsed {
             display: block;
             width: 15%;
             margin: 30px auto;
-            border: 0px solid #dddddd;
             border-top: 1px solid $dark-color;
         }
 
         blockquote {
             margin: 0 0 30px;
             margin-left: -26px;
-            border-left: 3px solid $blue;
             padding-left: 20px;
 
             p {
                 letter-spacing: 0.01rem;
                 font-weight: 400;
-                mborder-left: 3px solid $blue;
-                mpadding-left: 20px;
+                border-left: 3px solid $blue;
+                padding-left: 20px;
                 mmargin-left: -26px;
                 padding-bottom: 3px;
             }
