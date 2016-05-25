@@ -21,7 +21,8 @@ title: Home
 
 
   <div class="cf frame">
-    {% for post in paginator.posts %}
+    {% for post in paginator.posts  %}
+      {% unless post.tags contains "hidden" %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
         <div class="article-item">
           <header class="post-header">
@@ -45,6 +46,7 @@ title: Home
           </div>
         </div>
       </article>
+      {% endunless %}
     {% endfor %}
   </div>
 
