@@ -1,5 +1,5 @@
 ---
-title: Can you moderate your drinking? Possibly, but there's only one way to find out.
+title: Can you moderate your drinking without quitting? Quite possibly, but there's only one way to find out.
 layout: post
 author: npresnall
 permalink: /moderation/
