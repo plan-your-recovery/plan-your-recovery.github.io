@@ -2,7 +2,8 @@
 title: Can you moderate your drinking? There's only one way to find out.
 layout: post
 author: npresnall
-permalink: /moderation/
+tag: questions-answers
+permalink: /questions-answers/moderation/
 source-id: 1dVLPcdIcR0HUMmNS15RCFeQ0x5isDnySaY575Icv744
 published: true
 ---
@@ -11,6 +12,8 @@ published: true
 The founders of AA suggest that attempts at moderation provide the best litmus test for alcoholism. In their view, drinkers that are able to cut back without abstaining are not alcoholics because they haven't become powerless over alcohol.
 
 Heavy drinkers that are able to moderate their drinking may be more like persons with pre-hypertension or pre-diabetes. They are vulnerable to developing the illness, but they have caught the symptoms early enough to prevent its progression without resorting to abstinence.
+
+<!--more-->
 
 ![image alt text]({{ site.url }}/public/bFIobw8KrrI4HrmxUwJwdg_img_0.png)
 
@@ -46,5 +49,6 @@ But the writers of the Big Book were writing for persons with severe alcoholism-
 
 Resources for Persons interested in moderation
 
-http://moderation.org http://www.drinkerscheckup.com/
+http://moderation.org 
+http://www.drinkerscheckup.com/
 

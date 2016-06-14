@@ -3,6 +3,31 @@ $dark-color: #3d474c;
 $dark-color: #35464c;
 $blue: #0098ff;
 
+.title-bar {
+    background: $blue;
+}
+
+#video-teasers {
+    padding-top: 24px;
+
+    h5 {
+        font-weight: 500;
+        margin-bottom: 12px;
+    }
+
+    .teaser-vid-holder {
+        padding: 6px;
+
+        &:first-child {
+            padding-left: 0;
+        }
+
+        &:last-child {
+            padding-right: 0;
+        }
+    }
+}
+
 .icon {
     color: $grey-color;
 
