@@ -260,6 +260,11 @@ section:not([expanded]) span.collapsed {
 
         .post-subtitle {
             font-size: 28px;
+            line-height: 36px;
+        }
+
+        .post-header {
+            margin-bottom: 12px;
         }
 
         .post-excerpt a {
