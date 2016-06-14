@@ -1,5 +1,5 @@
 ---
-title: Moderation is not just an alcoholic fantasy--it is a public health imperative
+title: Can you moderate your drinking? There's only one way to find out.
 layout: post
 author: npresnall
 permalink: /moderation/
