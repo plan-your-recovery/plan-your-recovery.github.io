@@ -1,5 +1,5 @@
 ---
-title: Moderation
+title: Moderation is not just an alcoholic fantasy--it is a public health imperative
 layout: post
 author: npresnall
 permalink: /moderation/
