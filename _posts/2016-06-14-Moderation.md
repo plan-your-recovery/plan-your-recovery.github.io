@@ -3,7 +3,7 @@ title: Can you moderate your drinking?
 subtitle: There's only one way to find out.
 layout: post
 author: npresnall
-permalink: /reflections/moderation
+permalink: /moderation
 tags:
 - reflections
 source-id: 1dVLPcdIcR0HUMmNS15RCFeQ0x5isDnySaY575Icv744
