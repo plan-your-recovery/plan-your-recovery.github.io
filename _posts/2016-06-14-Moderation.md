@@ -15,40 +15,13 @@ Heavy drinkers that are able to moderate their drinking may be more like people 
 
 how treatments could be calibrated to the appropriate stage of the illness.
 
-<table>
-  <tr>
-    <td>Stage</td>
-    <td>Heart Disease</td>
-    <td>Alcoholism</td>
-  </tr>
-  <tr>
-    <td>I</td>
-    <td>Patients at risk for heart disease but with no current symptoms. Ordinary physical activity does not cause undue fatigue, palpitation, dyspnea or anginal pain.</td>
-    <td>Persons who use alcohol habitually at or below the CDC's recommended limits for men or women, especially those with a family history of alcoholism.</td>
-  </tr>
-  <tr>
-    <td>II</td>
-    <td>Patients with cardiac disease resulting in slight limitation of physical activity. They are comfortable at rest. Ordinary physical activity results in fatigue, palpitation, dyspnea or anginal pain.</td>
-    <td>Persons who use alcohol at or above the recommended limits but suffer only mild or infrequent functional problems as a result. No significant health, relational, emotional, legal, or professional consequences.</td>
-  </tr>
-  <tr>
-    <td>III</td>
-    <td>Patients with cardiac disease resulting in marked limitation of physical activity. They are comfortable at rest. Less than ordinary activity causes fatigue, palpitation, dyspnea or anginal pain.</td>
-    <td>Persons who use alcohol more frequently or in greater quantity than is recommended and suffer moderate health, relational, emotional, legal, or professional consequences.</td>
-  </tr>
-  <tr>
-    <td>IV</td>
-    <td>Patients with cardiac disease resulting in inability to carry on any physical activity without discomfort. Symptoms of heart failure or the anginal syndrome may be present even at rest.  If any physical activity is undertaken, discomfort increases.</td>
-    <td>Persons who use alcohol more frequently or in greater quantity than is recommended and suffer severe health, relational, emotional, legal, or professional consequences.</td>
-  </tr>
-</table>
-
+![image alt text]({{ site.url }}/public/bFIobw8KrrI4HrmxUwJwdg_img_0.png)
 
 Imagine, for example, if a large proportion of persons with Stage II alcoholism were prescribed naltrexone, a daily medication that makes alcohol less pleasurable and [has been shown in dozens of studies](http://www.ncbi.nlm.nih.gov/pubmed/23075288) to decrease episodes of heavy drinking. Treating alcoholism by stages might prevent many people from progressing to more severe and debilitating stages of the illness.
 
 Among the 1% of Americans (2.8 million) who receive treatment for an alcohol use disorder each year, there are probably very few people with early stage-alcoholism
 
-![image alt text]({{ site.url }}/public/bFIobw8KrrI4HrmxUwJwdg_img_0.png)
+![image alt text]({{ site.url }}/public/bFIobw8KrrI4HrmxUwJwdg_img_1.png)
 
 Entering treatment is a strong correlate of problem severity. But among the 6% of Americans (15.7 million) who show some need for treatment and the 11% (29.4 million) who do not need treatment but say they wanted to cut back on their drinking in the past year, there are probably quite a few people with early-stage alcoholism. In fact, *30% of all Americans who drank alcohol **in the past year** either demonstrated a need for treatment or **reported wanting or trying** to reduce or stop their drinking.* It's a safe bet that not all of these 45 million Americans suffer from severe alcoholism but they might benefit from treatment aimed at moderating their drinking. ([National Survey on Drug Use and Health, 2014](http://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/36361))
 
