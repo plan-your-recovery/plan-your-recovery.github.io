@@ -2,7 +2,8 @@
 title: Can you moderate your drinking? There's only one way to find out.
 layout: post
 author: npresnall
-tags:reflections
+tags:
+- reflections
 source-id: 1dVLPcdIcR0HUMmNS15RCFeQ0x5isDnySaY575Icv744
 published: true
 ---
@@ -80,7 +81,5 @@ But the writers of the Big Book were writing for people with severe alcoholism--
 
 **Resources for ****people**** interested in moderation**
 
-http://moderation.org 
-[http://www.drinkerscheckup.com/](http://www.drinkerscheckup.com/)
-http://pubs.niaaa.nih.gov/publications/RethinkingDrinking/Rethinking_Drinking.pdf
+http://moderation.org [http://www.drinkerscheckup.com/](http://www.drinkerscheckup.com/)http://pubs.niaaa.nih.gov/publications/RethinkingDrinking/Rethinking_Drinking.pdf
 
