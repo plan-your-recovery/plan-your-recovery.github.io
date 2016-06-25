@@ -11,7 +11,9 @@ published: true
 
 The founders of AA suggest that attempts at moderation provide the best litmus test for alcoholism. In their view, drinkers that are able to cut back without abstaining are not alcoholics because they haven't become powerless over alcohol.
 
-Heavy drinkers that are able to moderate their drinking may be more like people with early-stage heart disease. Characterizing heart disease in stages allows physicians to match treatment with severity. It is not difficult to imagine how alcoholism might be characterized in a similar way and how treatments could be calibrated to the appropriate stage of the illness.
+Heavy drinkers that are able to moderate their drinking may be more like people with early-stage heart disease. Characterizing heart disease in stages allows physicians to match treatment with severity. It is not difficult to imagine how alcoholism might be characterized in a similar way and 
+
+how treatments could be calibrated to the appropriate stage of the illness.
 
 <table>
   <tr>
@@ -37,8 +39,7 @@ Heavy drinkers that are able to moderate their drinking may be more like people 
   <tr>
     <td>IV</td>
     <td>Patients with cardiac disease resulting in inability to carry on any physical activity without discomfort. Symptoms of heart failure or the anginal syndrome may be present even at rest.  If any physical activity is undertaken, discomfort increases.</td>
-    <td>Persons who use alcohol more frequently or in greater quantity than is recommended and suffer severe health, relational, emotional, legal, or professional consequences.
-</td>
+    <td>Persons who use alcohol more frequently or in greater quantity than is recommended and suffer severe health, relational, emotional, legal, or professional consequences.</td>
   </tr>
 </table>
 
