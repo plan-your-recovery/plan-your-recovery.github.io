@@ -2,7 +2,7 @@
 title: Moderation
 layout: post
 author: npresnall
-permalink: reflections/moderation/
+permalink: /reflections/moderation/
 source-id: 1dVLPcdIcR0HUMmNS15RCFeQ0x5isDnySaY575Icv744
 published: true
 ---
