@@ -1,8 +1,8 @@
 ---
-title: Can you moderate your drinking? There is only one way to find out.
+title: Moderation
 layout: post
 author: npresnall
-permalink: /moderation/
+permalink: reflections/moderation/
 source-id: 1dVLPcdIcR0HUMmNS15RCFeQ0x5isDnySaY575Icv744
 published: true
 ---
