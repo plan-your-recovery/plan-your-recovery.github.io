@@ -1,6 +1,5 @@
 ---
-title: Can you moderate your drinking?
-subtitle: There's only one way to find out.
+title: Can you moderate your drinking? There's only one way to find out.
 layout: post
 author: npresnall
 permalink: /moderation
