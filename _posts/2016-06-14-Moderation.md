@@ -54,7 +54,6 @@ But the writers of the Big Book were writing for people with severe alcoholism--
 
 **Resources for people interested in moderation**
 
-[Moderation Management](http://moderation.org)
-[The Drinker's Checkup](http://www.drinkerscheckup.com/)
+[Moderation Management](http://moderation.org)[The Drinker's Checkup](http://www.drinkerscheckup.com/)
 [NIAAA: Rethinking Drinking](http://pubs.niaaa.nih.gov/publications/RethinkingDrinking/Rethinking_Drinking.pdf)
 
