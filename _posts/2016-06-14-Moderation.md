@@ -15,7 +15,6 @@ The founders of AA suggest that attempts at moderation provide the best litmus t
 Heavy drinkers that are able to moderate their drinking may be more like people with early-stage heart disease.<!--more--> Characterizing heart disease in stages allows physicians to match treatment with severity. It is not difficult to imagine how alcoholism might be characterized in a similar way and how treatments could be calibrated to the appropriate stage of the illness.
 
 ![image alt text]({{ site.url }}/public/bFIobw8KrrI4HrmxUwJwdg_img_0.png)
-
 Imagine, for example, if a large proportion of persons with Stage II alcoholism were prescribed naltrexone, a daily medication that makes alcohol less pleasurable and [has been shown in dozens of studies](http://www.ncbi.nlm.nih.gov/pubmed/23075288) to decrease episodes of heavy drinking. Treating alcoholism by stages might prevent many people from progressing to more severe and debilitating stages of the illness.
 
 Among the 1% of Americans (2.8 million) who receive treatment for an alcohol use disorder each year, there are probably very few people with early stage-alcoholism
