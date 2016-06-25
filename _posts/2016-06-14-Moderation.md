@@ -2,9 +2,8 @@
 title: Can you moderate your drinking? There's only one way to find out.
 layout: post
 author: npresnall
-permalink: /moderation
-tags:
-- reflections
+permalink: /moderation/
+tags: reflections
 source-id: 1dVLPcdIcR0HUMmNS15RCFeQ0x5isDnySaY575Icv744
 published: true
 ---
@@ -17,10 +16,9 @@ Heavy drinkers that are able to moderate their drinking may be more like people 
 ![image alt text]({{ site.url }}/public/bFIobw8KrrI4HrmxUwJwdg_img_0.png)
 Imagine, for example, if a large proportion of persons with Stage II alcoholism were prescribed naltrexone, a daily medication that makes alcohol less pleasurable and [has been shown in dozens of studies](http://www.ncbi.nlm.nih.gov/pubmed/23075288) to decrease episodes of heavy drinking. Treating alcoholism by stages might prevent many people from progressing to more severe and debilitating stages of the illness.
 
-Among the 1% of Americans (2.8 million) who receive treatment for an alcohol use disorder each year, there are probably very few people with early stage-alcoholism
+Among the 1% of Americans (2.8 million) who receive treatment for an alcohol use disorder each year, there are probably very few people with early stage-alcoholism.
 
-![image alt text]({{ site.url }}/public/bFIobw8KrrI4HrmxUwJwdg_img_1.png)
-
+![image alt text]({{ site.url }}/public/bFIobw8KrrI4HrmxUwJwdg_img_2.png)
 Entering treatment is a strong correlate of problem severity. But among the 6% of Americans (15.7 million) who show some need for treatment and the 11% (29.4 million) who do not need treatment but say they wanted to cut back on their drinking in the past year, there are probably quite a few people with early-stage alcoholism. In fact, *30% of all Americans who drank alcohol in the past year either demonstrated a need for treatment or reported wanting or trying to reduce or stop their drinking.* It's a safe bet that not all of these 45 million Americans suffer from severe alcoholism but they might benefit from treatment aimed at moderating their drinking. ([National Survey on Drug Use and Health, 2014](http://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/36361))
 
 We are getting more and more evidence that chronic heavy drinking even in people without an alcohol use disorder is associated with [increased risk for many illness](http://pubs.niaaa.nih.gov/publications/RethinkingDrinking/Rethinking_Drinking.pdf), including heart disease, cancer, and dementia. Making people more aware of these risks could have a profound effect on alcohol overuse in the U.S. In 1980, about half of French adults were daily wine drinkers. Drinking wine was part of French culture and considered innocuous. As it became clear that daily alcohol consumption was associated with serious health risks, French habits changed. Today, only about 17% of French people drink alcohol daily and the number of French people who don't drink at all has nearly doubled.
