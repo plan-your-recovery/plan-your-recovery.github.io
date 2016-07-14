@@ -2,14 +2,14 @@
 title: About Us
 layout: page
 permalink: "/about/"
-excerpt: Plan Your Recovery is brought to you by Ned Presnall and Nick Niles, two
+excerpt: 'Plan Your Recovery is brought to you by Ned Presnall and Nick Niles, two
   family men working in their spare time to bring thoughtful information about addiction
-  and recovery to a wider audience. Awesome!
+  and recovery to a wider audience. '
 ---
 
 <img src="{{ site.baseurl }}/assets/images/nick_ned.jpg" alt="">
 
-Plan Your Recovery is brought to you by Ned Presnall and Nick Niles, two family men working in their spare time to bring thoughtful information about addiction and recovery to a wider audience. Awesome!
+Plan Your Recovery is brought to you by Ned Presnall and Nick Niles, two family men working in their spare time to bring thoughtful information about addiction and recovery to a wider audience.
 
 **Ned Presnall** is Executive Director of Clayton Behavioral and Adjunct Professor at Washington University in St. Louis. He presents widely on the topics of addiction, mental health, and Medication Assisted Treatment. Ned is passionate about reducing the stigma against persons with addiction and against Medication Assisted Treatment through discourse and public engagement.
 
