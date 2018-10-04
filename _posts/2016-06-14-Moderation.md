@@ -1,30 +1,32 @@
 ---
 title: Can you moderate your drinking? There's only one way to find out.
+date: 2016-06-14 00:00:00 +0000
 layout: post
 author: npresnall
-permalink: /reflections/moderation/
+permalink: "/reflections/moderation/"
 tags: reflections
 source-id: 1dVLPcdIcR0HUMmNS15RCFeQ0x5isDnySaY575Icv744
 published: true
+
 ---
-*The idea that somehow, someday he will control and enjoy his drinking is the great obsession of every abnormal drinker. The persistence of this illusion is astonishing. Many pursue it into the gates of insanity or death. (Big Book, Chapter 3)*
+_The idea that somehow, someday he will control and enjoy his thinking is the great obsession of every abnormal drinker. The persistence of this illusion is astonishing. Many pursue it into the gates of insanity or death. (Big Book, Chapter 3)_
 
 The founders of AA suggest that attempts at moderation provide the best litmus test for alcoholism. In their view, drinkers that are able to cut back without abstaining are not alcoholics because they haven't become powerless over alcohol.
 
 Heavy drinkers that are able to moderate their drinking may be more like people with early-stage heart disease.<!--more--> Characterizing heart disease in stages allows physicians to match treatment with severity. It is not difficult to imagine how alcoholism might be characterized in a similar way and how treatments could be calibrated to the appropriate stage of the illness.
 
-![image alt text]({{ site.url }}/public/bFIobw8KrrI4HrmxUwJwdg_img_0.png)
+![image alt text](https://forestryio.s3-us-west-2.amazonaws.com/iqhwqbr8oigfyq/public/bFIobw8KrrI4HrmxUwJwdg_img_0.png)
 Imagine, for example, if a large proportion of persons with Stage II alcoholism were prescribed naltrexone, a daily medication that makes alcohol less pleasurable and [has been shown in dozens of studies](http://www.ncbi.nlm.nih.gov/pubmed/23075288) to decrease episodes of heavy drinking. Treating alcoholism by stages might prevent many people from progressing to more severe and debilitating stages of the illness.
 
 Among the 1% of Americans (2.8 million) who receive treatment for an alcohol use disorder each year, there are probably very few people with early-stage alcoholism.
 
-![image alt text]({{ site.url }}/public/bFIobw8KrrI4HrmxUwJwdg_img_2.png)
+![image alt text](https://forestryio.s3-us-west-2.amazonaws.com/iqhwqbr8oigfyq/public/bFIobw8KrrI4HrmxUwJwdg_img_2.png)
 
-Entering treatment is a strong correlate of problem severity. But among the 6% of Americans (15.7 million) who show some need for treatment and the 11% (29.4 million) who do not need treatment but say they wanted to cut back on their drinking in the past year, there are probably quite a few people with early-stage alcoholism. In fact, *30% of all Americans who drank alcohol in the past year either demonstrated a need for treatment or reported wanting or trying to reduce or stop their drinking.* It's a safe bet that not all of these 45 million Americans suffer from severe alcoholism but they might benefit from treatment aimed at moderating their drinking. ([National Survey on Drug Use and Health, 2014](http://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/36361))
+Entering treatment is a strong correlate of problem severity. But among the 6% of Americans (15.7 million) who show some need for treatment and the 11% (29.4 million) who do not need treatment but say they wanted to cut back on their drinking in the past year, there are probably quite a few people with early-stage alcoholism. In fact, _30% of all Americans who drank alcohol in the past year either demonstrated a need for treatment or reported wanting or trying to reduce or stop their drinking._ It's a safe bet that not all of these 45 million Americans suffer from severe alcoholism but they might benefit from treatment aimed at moderating their drinking. ([National Survey on Drug Use and Health, 2014](http://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/36361))
 
 We are getting more and more evidence that chronic heavy drinking even in people without an alcohol use disorder is associated with [increased risk for many illness](http://pubs.niaaa.nih.gov/publications/RethinkingDrinking/Rethinking_Drinking.pdf), including heart disease, cancer, and dementia. Making people more aware of these risks could have a profound effect on alcohol overuse in the U.S. In 1980, about half of French adults were daily wine drinkers. Drinking wine was part of French culture and considered innocuous. As it became clear that daily alcohol consumption was associated with serious health risks, French habits changed. Today, only about 17% of French people drink alcohol daily and the number of French people who don't drink at all has nearly doubled.
 
-So, how can a person with early-stage alcoholism change his or her drinking habit without committing to abstinence? There is very detailed guidance on the [Moderation Management website](http://moderation.org/)—a group founded in 1994 as an alternative to Alcoholics Anonymous. What I'd like to offer is a more basic, philosophical point: *For people that have developed an unhealthy drinking habit but believe they have caught the problem early, committing to the principle of abstinence may not be necessary, but committing to the principle of moderation almost certainly will be.*
+So, how can a person with early-stage alcoholism change his or her drinking habit without committing to abstinence? There is very detailed guidance on the [Moderation Management website](http://moderation.org/)—a group founded in 1994 as an alternative to Alcoholics Anonymous. What I'd like to offer is a more basic, philosophical point: _For people that have developed an unhealthy drinking habit but believe they have caught the problem early, committing to the principle of abstinence may not be necessary, but committing to the principle of moderation almost certainly will be._
 
 A principle is something I commit to before I consider any of the fluctuating particulars of my life. If I'm committed to abstinence, I don't say: I won't drink unless it's a special occasion or unless it's a stressful week at work. I act on principle in the face of the ever-changing landscape of my life. A good friend of mine is 8 years sober and reminds himself every morning before his "feet hit the floor" that no matter what happens that day--whether he experiences a personal loss, a stressful event, or just the general annoyances and celebrations of life--there will be nothing that is worth using over.
 
@@ -42,9 +44,9 @@ Once you form your new drinking habit, you'll want to maintain it. Most of us ca
 
 The founder of [Moderation Management](http://moderation.org/), Audrey Kishline, eventually wrote an open letter to her supporters explaining that she had come to realize that she suffered from severe alcoholism and that only abstinence could help her break her addiction. While she attempted to achieve lasting sobriety in AA, she killed a man and his son in a drunk driving accident. She spent some time in prison and never fully recovered from alcoholism.
 
-Ms. Kishline's story is a cautionary tale, but it is not definitive. After all, she had already been to residential treatment when she devised the notion of moderation management. There is no doubt that the fantasy of every person with severe alcoholism is to moderate their drinking and that overcoming that fantasy is crucial for achieving long-term sobriety. The writers of the Big Book recall their prinicipled but failed attempts at controlled drinking: 
+Ms. Kishline's story is a cautionary tale, but it is not definitive. After all, she had already been to residential treatment when she devised the notion of moderation management. There is no doubt that the fantasy of every person with severe alcoholism is to moderate their drinking and that overcoming that fantasy is crucial for achieving long-term sobriety. The writers of the Big Book recall their prinicipled but failed attempts at controlled drinking:
 
->> "Here are some of the methods we have tried: Drinking beer only, limiting the number of drinks, never drinking alone, never drinking in the morning, drinking only at home, never having it in the house, never drinking during business hours, drinking only at parties, switching from scotch to brandy, drinking only natural wines..."
+> > "Here are some of the methods we have tried: Drinking beer only, limiting the number of drinks, never drinking alone, never drinking in the morning, drinking only at home, never having it in the house, never drinking during business hours, drinking only at parties, switching from scotch to brandy, drinking only natural wines..."
 
 They jokingly prescribe controlled drinking to their reader: "Step over to the nearest barroom and try some controlled drinking. Try to drink and stop abruptly. Try it more than once. It will not take long for you to decide, if you are honest with yourself about it. It may be worth a bad case of jitters if you get a full knowledge of your condition."
 
@@ -57,4 +59,3 @@ But the writers of the Big Book were writing for people with severe alcoholism--
 [The Drinker's Checkup](http://www.drinkerscheckup.com/)
 
 [NIAAA: Rethinking Drinking](http://pubs.niaaa.nih.gov/publications/RethinkingDrinking/Rethinking_Drinking.pdf)
-
