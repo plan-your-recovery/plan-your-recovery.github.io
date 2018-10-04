@@ -236,7 +236,7 @@ section:not([expanded]) span.collapsed {
             color: $blue;
         }
 
-        .post-title {
+        .post-title, .post-subtitle {
             letter-spacing: -0.02em;
             font-weight: 700;
             font-style: normal;
@@ -259,8 +259,7 @@ section:not([expanded]) span.collapsed {
         }
 
         .post-subtitle {
-            font-size: 28px;
-            line-height: 36px;
+           color: $grey-color;
         }
 
         .post-header {
@@ -269,7 +268,7 @@ section:not([expanded]) span.collapsed {
 
         .post-excerpt a {
             letter-spacing: -0.02em;
-            font-weight: 300;
+            font-weight: 400;
             font-style: normal;
             font-size: 20px;
             line-height: 1.59;
@@ -366,7 +365,7 @@ section:not([expanded]) span.collapsed {
         font-family: $font-sans;
     }
 
-    .post-title {
+    .post-title, .post-subtitle {
         font-weight: 700;
         font-style: normal;
         letter-spacing: -0.04em;
@@ -377,10 +376,7 @@ section:not([expanded]) span.collapsed {
     }
 
     .post-subtitle {
-        font-size: 24px;
         text-decoration: none;
-        font-weight: 300;
-        margin: 0;
         color: $grey-color;
     }
 
@@ -412,7 +408,7 @@ section:not([expanded]) span.collapsed {
 
     .post-content {
         width: 100%;
-        font-family: $font-serif;
+        font-family: $body-font-family;
         color: $dark-color;
 
         h1, h2, h3 {
@@ -562,14 +558,14 @@ section:not([expanded]) span.collapsed {
         font-style: normal;
         font-size: 14px;
         overflow: hidden;
-        font-family: $font-sans;
+        // font-family: $font-sans;
         white-space: nowrap;
         text-overflow: ellipsis;
     }
 
     .post-content {
         width: 100%;
-        font-family: $font-serif;
+        // font-family: $font-serif;
         color: $dark-color;
 
         h1, h2, h3 {
