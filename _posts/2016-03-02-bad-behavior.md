@@ -15,8 +15,6 @@ permalink: "/reflections/bad-behavior/"
 tag: reflections
 
 ---
-**Hang on a minute, partner!!**
-
 A couple weeks ago, my wife, kids, and I boarded a plane home from the “happiest place on earth.” We’d gone to Disney World so that my partners and I could attend Mass General’s course on evidence-based treatments for addiction. As the plane taxied to the runway, we became aware of a heated exchange from the row just in front of us. Apparently, a woman had boarded the plane intoxicated, and another passenger had complained about her condition. <!--more--> In the next 10 minutes, a series of capable flight attendants came to speak with the woman and assess her physical and mental state.  She deflected their questions with drunken bombast. As her eyes drooped with sedation, she insisted that the passenger who complained was the one causing problems.
 
 My wife and I watched while the flight attendants quietly discerned whether or not we could take off given the woman’s condition. The longer the discernment lasted, the more evidence the woman provided that she was not fit to fly safely. As the plane taxied back to the gate and the woman realized that she would be put off the plane, she vacillated between grandiosity and and self-pitying lamentation. About the head flight attendant, she said: “You don’t know that I know people. He will lose his job. I will make sure that he loses his job.” At the same time, she complained that she would be on the streets of Orlando with no food or money and that her elderly mother would be waiting and worrying at her intended destination.
