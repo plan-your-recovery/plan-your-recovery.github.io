@@ -6,10 +6,9 @@ author: npresnall
 permalink: "/reflections/moderation/"
 tags: reflections
 source-id: 1dVLPcdIcR0HUMmNS15RCFeQ0x5isDnySaY575Icv744
-published: true
 
 ---
-_The idea that somehow, someday he will control and enjoy his drinking is the great obsession of every abnormal drinker. The persistence of this illusion is astonishing. Many pursue it into the gates of insanity or death. (Big Book, Chapter 3)_
+_Ned? The idea that somehow, someday he will control and enjoy his drinking is the great obsession of every abnormal drinker. The persistence of this illusion is astonishing. Many pursue it into the gates of insanity or death. (Big Book, Chapter 3)_
 
 The founders of AA suggest that attempts at moderation provide the best litmus test for alcoholism. In their view, drinkers that are able to cut back without abstaining are not alcoholics because they haven't become powerless over alcohol.
 
