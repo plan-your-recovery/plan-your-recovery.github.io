@@ -1,10 +1,10 @@
 ---
-title: About Us
+title: Treatment
 layout: page
-permalink: "/about/"
-excerpt: 'Plan Your Recovery is brought to you by Ned Presnall and Nick Niles, two
-  family men working in their spare time to bring thoughtful information about addiction
-  and recovery to a wider audience. '
+permalink: "/treatment/"
+excerpt: Plan Your Recovery has an outpatient treatment program at Clayton Behavioral
+  in St. Louis. The program offers Cognitive Behavioral groups for persons with alcoholism
+  and addiction, Monday through Friday from 8am-9am. For more information visit https://www.claytonbehavioral.com/alcoholism-and-addiction-treatment
 published: false
 
 ---
