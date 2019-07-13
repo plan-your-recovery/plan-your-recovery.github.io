@@ -2,3 +2,5 @@
 label: Post Template
 hide_body: false
 fields: []
+pages:
+- Webinars.md
