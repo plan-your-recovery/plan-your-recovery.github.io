@@ -1,7 +1,7 @@
 ---
 title: Self Study
 layout: page
-permalink: self-study/
+permalink: "/self-study/"
 excerpt: ''
 
 ---
