@@ -5,4 +5,4 @@ permalink: "/self-study/"
 excerpt: ''
 
 ---
-Coming Soon...
+    
