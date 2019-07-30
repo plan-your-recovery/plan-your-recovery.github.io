@@ -1,15 +1,15 @@
 ---
-layout: default
-title: About Continuing Education
+title: Continuing Education
+layout: page
 description: ""
 permalink: /ce-about/
 ---
 
-<p><strong>Plan Your Recovery</strong> offers two types of continuing education for addiction treatment professionals. All classes are free to the public. There is a $5 fee per credit if you request continuing education</p>
+**Plan Your Recovery** offers two types of continuing education for addiction treatment professionals. All classes are free to the public. There is a $5 fee per credit if you request continuing education.
 
-<p><a href="planyourrecovery.com/webinars" title="Webinars">Live Webinars</a></p>
+<a href="/ce-webinars"  title="Webinars"><button class="button">Live Webinars</button></a>
 
-<p><a href="planyourrecovery.com/self-study" title="Self Study">Self-Study</a></p>
+<a href="/ce-self-study" title="Self Study"><button class="button">Self-Study</button></a>
 
 <p><strong>Approvals</strong><br />
 Plan Your Recovery is approved by the <a href="https://missouricb.com/onlinehomestudy/" title="Missouri Credentialing Board">Missouri Credentialing Board</a> to provide online continuing education to Substance Use Disorder Professionals.</p>
