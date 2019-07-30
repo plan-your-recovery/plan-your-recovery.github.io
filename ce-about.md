@@ -4,7 +4,8 @@ title: About Continuing Education
 description: ""
 permalink: /ce-about/
 ---
-<p><strong>Plan Your Recovery</strong> offers two types of continuing education for addiction treatment professionals. All classes are free to the public. There is a $5 fee per credit if you request a con</p>
+<header>About Continuing Education</header>
+<p><strong>Plan Your Recovery</strong> offers two types of continuing education for addiction treatment professionals. All classes are free to the public. There is a $5 fee per credit if you request continuing education</p>
 
 <p><a href="planyourrecovery.com/webinars" title="Webinars">Live Webinars</a></p>
 
