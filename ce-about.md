@@ -4,12 +4,6 @@ title: About Continuing Education
 description: ""
 permalink: /ce-about/
 ---
-
- <main class="content" role="main">
-  <article class="post">
-    <div class="post-meta">
-      <h1 class="post-title">Continuing Education</h1>
-    </div>
     <section class="post-content">
       <a name="topofpage"></a>
       <p><strong>Plan Your Recovery</strong> offers two types of continuing education for addiction treatment professionals. All classes are free to the public. There is a $5 fee per credit if you request a con</p>
@@ -28,5 +22,3 @@ Plan Your Recovery is approved by the <a href="https://missouricb.com/onlinehome
 <p>Are you licensed or credentialed outside Missouri? Check with your professional board to see if PYR classes meet your requirements for continuing education.</p>
 
     </section>
-  </article>
-</main>
