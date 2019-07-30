@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: About Continuing Education
 description: ""
 permalink: /ce-about/
