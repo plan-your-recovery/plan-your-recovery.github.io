@@ -31,7 +31,7 @@ $blue: #0098ff;
 .icon {
     color: $grey-color;
 
-    > svg {
+    >svg {
         display: inline-block;
         width: 36px;
         height: 36px;
@@ -57,7 +57,7 @@ $blue: #0098ff;
     background: none;
 }
 
-.top-bar ul li > a {
+.top-bar ul li>a {
     color: $dark-color;
     font-weight: 700;
 
@@ -116,8 +116,22 @@ $blue: #0098ff;
 
 $rs: 16px;
 
-$font-serif: Georgia, Cambria, "Times New Roman", Times, "Lora", serif;
-$font-sans: "Helvetica Neue", system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+$font-serif: Georgia,
+Cambria,
+"Times New Roman",
+Times,
+"Lora",
+serif;
+$font-sans: "Helvetica Neue",
+system,
+-apple-system,
+".SFNSText-Regular",
+"San Francisco",
+"Roboto",
+"Segoe UI",
+"Helvetica Neue",
+"Lucida Grande",
+sans-serif;
 
 // Only needed for syntax highlighting
 %vertical-rhythm {
@@ -237,7 +251,8 @@ section:not([expanded]) span.collapsed {
             color: $blue;
         }
 
-        .post-title, .post-subtitle {
+        .post-title,
+        .post-subtitle {
             letter-spacing: -0.02em;
             font-weight: 700;
             font-style: normal;
@@ -260,7 +275,7 @@ section:not([expanded]) span.collapsed {
         }
 
         .post-subtitle {
-           color: $grey-color;
+            color: $grey-color;
         }
 
         .post-header {
@@ -366,7 +381,8 @@ section:not([expanded]) span.collapsed {
         font-family: $font-sans;
     }
 
-    .post-title, .post-subtitle {
+    .post-title,
+    .post-subtitle {
         font-weight: 700;
         font-style: normal;
         letter-spacing: -0.04em;
@@ -412,11 +428,16 @@ section:not([expanded]) span.collapsed {
         font-family: $body-font-family;
         color: $dark-color;
 
-        h1, h2, h3 {
+        h1,
+        h2,
+        h3 {
             font-family: $font-sans;
         }
 
-        h3, h4, h5, h6 {
+        h3,
+        h4,
+        h5,
+        h6 {
             letter-spacing: -0.02em;
             font-weight: 700;
             font-style: normal;
@@ -431,7 +452,8 @@ section:not([expanded]) span.collapsed {
             font-size: 36px;
         }
 
-        h2, h1 {
+        h2,
+        h1 {
             letter-spacing: -0.02em;
             font-weight: 700;
             font-style: normal;
@@ -504,7 +526,8 @@ section:not([expanded]) span.collapsed {
         }
     }
 
-    ul, ol {
+    ul,
+    ol {
         padding: 30px 0;
         margin: 0;
     }
@@ -569,11 +592,16 @@ section:not([expanded]) span.collapsed {
         // font-family: $font-serif;
         color: $dark-color;
 
-        h1, h2, h3 {
+        h1,
+        h2,
+        h3 {
             font-family: $font-sans;
         }
 
-        h3, h4, h5, h6 {
+        h3,
+        h4,
+        h5,
+        h6 {
             letter-spacing: -0.02em;
             font-weight: 700;
             font-style: normal;
@@ -588,7 +616,8 @@ section:not([expanded]) span.collapsed {
             font-size: 36px;
         }
 
-        h2, h1 {
+        h2,
+        h1 {
             letter-spacing: -0.02em;
             font-weight: 700;
             font-style: normal;
@@ -663,7 +692,8 @@ section:not([expanded]) span.collapsed {
             }
         }
 
-        ul, ol {
+        ul,
+        ol {
             padding: 0 0 30px;
             margin: 0;
         }
@@ -813,7 +843,8 @@ section:not([expanded]) span.collapsed {
         padding: 12px;
     }
 
-    p, h4 {
+    p,
+    h4 {
         color: rgba($dark-color, 0.6);
     }
 }
@@ -853,9 +884,14 @@ pre {
     padding: 8px 12px;
     overflow-x: scroll;
 
-    > code {
+    >code {
         border: 0;
         padding-right: 0;
         padding-left: 0;
     }
+}
+
+.contact-form-holder {
+    max-width: 700px;
+    margin: 0 auto;
 }
