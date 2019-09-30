@@ -1,7 +1,7 @@
 ---
 title: Behavioral Therapy Theoretical Foundations
 layout: course
-permalink: "/stop-hating-me/theoretical-foundations/"
+permalink: "/continuing-education/behavioral-therapy/theoretical-foundations/"
 
 ---
 # Let's get started
