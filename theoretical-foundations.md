@@ -4,6 +4,8 @@ layout: course
 permalink: "/continuing-education/behavioral-therapy/theoretical-foundations/"
 
 ---
+# Let's get started
+
 ### Let's get started
 
 First, let's get a quick baseline about what you know. (This is required by some of our credentialing partners. HINT: You'll take the same test again after you complete the course).
