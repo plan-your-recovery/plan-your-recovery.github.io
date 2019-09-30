@@ -4,6 +4,13 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: continuing-education
+  label: Continuing Education
+  create: all
+  match: "**/*"
+  templates:
+  - post-template
 - type: jekyll-posts
   label: Posts
   create: all
