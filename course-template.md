@@ -1,9 +1,9 @@
 ---
-title: Treatment
+title: Course Template
 layout: course
 permalink: "/ce/template"
----
 
+---
 {% include video.html videoID="GoJUoL_D7jc" %}
 
 # The course
