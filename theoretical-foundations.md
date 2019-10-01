@@ -1,5 +1,5 @@
 ---
-title: Behavioral Therapy Theoretical Foundations
+title: Behavioral Therapy: Theoretical Foundations
 layout: course
 permalink: "/continuing-education/behavioral-therapy/theoretical-foundations/"
 
