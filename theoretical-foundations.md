@@ -14,6 +14,8 @@ First, let's get a quick baseline about what you know. (This is required by some
 
 Watch the following introduction to the Behavioral Theory of addiction.
 
+    <br />
+
 {% include video.html videoID="hg09_-89caY" %}
 
 ### Read
