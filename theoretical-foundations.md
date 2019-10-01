@@ -12,9 +12,8 @@ First, let's get a quick baseline about what you know. (This is required by some
 
 ### Watch
 
-Watch the following introduction to the Behavioral Theory of addiction.  
-  
-  
+Watch the following introduction to the Behavioral Theory of addiction.
+
 {% include video.html videoID="hg09_-89caY" %}
 
 ### Read
@@ -25,7 +24,7 @@ Read the following excerpt from SAMHSA's TIP 34: Brief Interventions and Brief T
 
 ### Watch
 
-Watch this video to review key concepts from the reading and understand how it applies to clinical practice.   
+Watch this video to review key concepts from the reading and understand how it applies to clinical practice.
 
 {% include video.html videoID="hg09_-89caY" %}
 
