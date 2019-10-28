@@ -6,7 +6,7 @@ permalink: "/continuing-education/behavioral-therapy/theoretical-foundations/"
 ---
 ### Let's get started
 
-First, let's get a quick baseline about what you know. (This is required by some of our credentialing partners. HINT: You'll take the same test again after you complete the course).
+If you're a Missouri SUD professional, please take the following pre-test. Otherwise, you can jump right into the next section. 
 
 [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSfIXKl38T1WX5Msq7G3qMIHVaC_n_Ysp2iZmdWOcP9pafwSwg/viewform?usp=sf_link)
 
