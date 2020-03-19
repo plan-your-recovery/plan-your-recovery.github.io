@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Reflections
-description: "Personal thoughts of a professional addiction counselor."
-permalink: /reflections/
+title: Blog
+description: "Questions &amp; Answers About Addiction &amp; Recovery."
+permalink: /blog/
 ---
 <header class="blog-header --page-header">
   <h1 class="blog-title">{{ page.title }}</h1>
@@ -10,7 +10,7 @@ permalink: /reflections/
 </header>
 <main class="content" role="main">
 <div class="cf frame">
- {% for post in site.tags.reflections %}
+ {% for post in site.posts %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
         <div class="article-item">
           <header class="post-header">
@@ -29,9 +29,9 @@ permalink: /reflections/
             
           </a>
         </section>        
-          <div class="post-meta">
+          <!--<div class="post-meta">
             <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-          </div>
+          </div>-->
         </div>
       </article>
     {% endfor %}

@@ -3,7 +3,7 @@ title: What is Recovery?
 date: 2016-04-06
 author: Ned Presnall
 layout: post
-permalink: /questions-answers/what-is-recovery/
+permalink: /blog/what-is-recovery/
 tag: questions-answers
 ---
 According to the Substance Abuse And Mental Health Administration, Recovery is defined as follows: 

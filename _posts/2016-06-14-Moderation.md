@@ -3,7 +3,7 @@ title: Can you moderate your drinking? There's only one way to find out.
 date: 2016-06-14 00:00:00 +0000
 layout: post
 author: npresnall
-permalink: "/reflections/moderation/"
+permalink: "/blog/moderation/"
 tags: reflections
 source-id: 1dVLPcdIcR0HUMmNS15RCFeQ0x5isDnySaY575Icv744
 

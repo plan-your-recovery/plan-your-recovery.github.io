@@ -5,7 +5,7 @@ id: 94
 author: Ned Presnall
 layout: post
 guid: http://staging.planyourrecovery.com/?p=94
-permalink: "/questions-answers/what-is-addiction/"
+permalink: "/blog/what-is-addiction/"
 tag: questions-answers
 
 ---

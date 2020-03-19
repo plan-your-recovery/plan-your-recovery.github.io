@@ -1,7 +1,4 @@
----
----
-
-// @import 'settings';  
+--- --- // @import 'settings';  
 @import 'foundation';
 @include foundation-everything;
 @import 'pyr';
@@ -9,4 +6,9 @@
 
 .top-bar {
   background: white;
+}
+
+.ctct-form-embed.form_0 .ctct-form-custom .ctct-form-button {
+  background-color: #2199e8 !important;
+  border-color: #2199e8 !important;
 }

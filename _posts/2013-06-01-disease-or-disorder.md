@@ -5,7 +5,7 @@ date: 2013-06-01T17:54:58+00:00
 author: Ned Presnall
 layout: post
 guid: http://staging.planyourrecovery.com/?p=102
-permalink: /questions-answers/disease-or-disorder/
+permalink: /blog/disease-or-disorder/
 tag: questions-answers
 ---
 Alcoholism was first defined by the American Medical Association as an illness in 1956 and a disease in 1966. Today the disease theory of addiction continues to cause controversy. People with addiction are not permitted to receive Social Security Disability benefits unless they can show that their impairment results from a disease other than addiction. As recently as 1988 the US Supreme court upheld the Veterans’ affairs explanation of "primary alcoholism" as a problem resulting from "willfull misconduct." Veterans with such primary alcoholism or drug addiction are not entitled to disability benefits due to addiction or to any disability (such as cirrhosis of the liver) that results from addiction. (It is curious to note that this policy applies to diseases resulting from alcohol and illicit drug addiction, but not to diseases that result from the world’s biggest addictive killer—smoking.) <!--more--> 

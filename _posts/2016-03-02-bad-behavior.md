@@ -11,7 +11,7 @@ Excerpt: A couple weeks ago, my wife, kids, and I boarded a plane home from the
   could attend Mass General&#8217;s course on evidence-based treatments for addiction.
   As the plane taxied to the runway, we became aware of a heated exchange from the
   row just in front of us.
-permalink: "/reflections/bad-behavior/"
+permalink: "/blog/bad-behavior/"
 tag: reflections
 
 ---
