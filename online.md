@@ -35,8 +35,8 @@ Meeting ID: 191 385 271
 
 #### Co-Ed AA Meetings
 
-**Wednesday 6pm**  
-\**[#1 Offenders](https://zoom.us/j/187245516 "Zoom Link")  
+**Wednesday 8pm**  
+[#1 Offenders](https://zoom.us/j/187245516 "Zoom Link")  
 Co-Ed  
 Open  
 [Zoom Video/Audio link](https://zoom.us/j/187245516 "Zoom Link")  
