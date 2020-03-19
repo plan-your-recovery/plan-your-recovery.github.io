@@ -5,7 +5,6 @@ permalink: "/treatment/"
 excerpt: Plan Your Recovery has an outpatient treatment program at Clayton Behavioral
   in St. Louis. The program offers Cognitive Behavioral groups for persons with alcoholism
   and addiction, Monday through Friday from 8am-9am. For more information visit https://www.claytonbehavioral.com/alcoholism-and-addiction-treatment
-published: false
 
 ---
 **_Plan Your Recovery_** _has an outpatient treatment program at Clayton Behavioral in St. Louis, Missouri. Currently all services are delivered via telehealth and are therefore available to all Missouri residents. Through collaboration with Clayton Behavioral physicians, these services can include buprenorphine treatment and outpatient detoxification for alcohol use disorder. The rendering provider may make a determination that an in-person consultation is medically necessary._ [Click here for pricing and insurance information.](https://www.claytonbehavioral.com/pricing)
