@@ -11,7 +11,7 @@ _While our community faces the corona virus, it is important that people in reco
 
 ### St. Louis Online Recovery Supports
 
-### **AA Meetings**
+### AA Meetings
 
 ##### _These are established local AA meetings that have gone online in response to the corona virus. Click the title or Zoom link to join via your computer or on the Zoom iPhone or Android apps. If you prefer to call in, dial the phone number and enter the meeting ID. A host will admit you into the meeting._
 
