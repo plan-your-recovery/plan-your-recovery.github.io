@@ -13,7 +13,7 @@ excerpt: 'Plan Your Recovery is brought to you by Ned Presnall and Nick Niles, t
 
 ![](/robert2.jpg)
 
-**Robert Riley, II is a** Certified Reciprocal Substance Abuse Counselor and person in long-term recovery. He helps patients and families with addiction find hope and develop the skills they need for recovery. Robert is the co-founder of MO Network, an outreach center in South St. Louis focused on reducing the harms associated with drug use, facilitating entry to treatment, and affirming the dignity of persons with addiction.
+**Robert Riley, II is a** Certified Reciprocal Substance Abuse Counselor and person in long-term recovery. He helps patients and families with addiction find hope and develop the skills they need for recovery. Robert is the co-founder of MO Network, an outreach center in South St. Louis focused on reducing the harms associated with drug use, facilitating entry to treatment, and affirming the dignity of persons with addiction. 
 
 ![](/Michelle Charbonnier.jpg)
 
