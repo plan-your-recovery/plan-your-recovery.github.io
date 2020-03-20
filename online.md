@@ -49,6 +49,8 @@ This weekly meeting is free to Missouri residents and is facilitated by a substa
 
 ### National/International Online Recovery Communities
 [Smart Recovery Online](https://www.smartrecovery.org/smart-recovery-toolbox/smart-recovery-online/)
+
 [Online Group AA Meetings](https://www.onlinegroupaa.org/)
+
 [Online NA Meetings](https://www.na.org:443/meetingsearch/text-results.php?country=Web&state&city&zip&street&within=5&day=0&lang&orderby=distance)
 
