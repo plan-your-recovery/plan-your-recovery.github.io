@@ -19,6 +19,10 @@ excerpt: 'Plan Your Recovery is brought to you by Ned Presnall and Nick Niles, t
 
 **Michelle Charbonnier** received her bachelor’s in business administration, management and entrepreneurship from Southern Illinois University Edwardsville. In 2015, she found her passion in helping people find recovery from substance use disorder and has been pursuing this work ever since. Michelle is an internationally certified reciprocal drug and alcohol counselor, certified facilitator of SMART Recovery and Seeking Safety, and registered yoga instructor who draws on yoga and mindfulness to support persons in recovery.
 
+![](/assets/images/700-matt_silva-288x400-288x400.jpg)
+**Matt Silva** 
+Matthew Silva is a Licensed Professional Counselor with a specialty in addiction treatment. He has Masters degrees in Rehabilitation Counseling and Business Administration and is currently pursuing a Doctorate in Psychology. Before discovering his passion for mental health, Matt had a successful career working in the technical marketing field for DuPont. Through his own struggles with addiction he began a journey of recovery and a vocation to help others who struggle with addiction and mental health. Matt uses person-centered counseling approaches such as motivational interviewing to help patients leverage their own wisdom and strengths in pursuit of the life and self that they desire. 
+
 ![](/assets/images/700-Julia Katzman.jpg)
 
 **Julia Katzman** is a clinical practicum student pursuing her Masters of Social Work at Washington University in St. Louis. Julia offers her adult and teen clients a practical and evidence-based approach for treating substance use and co-occurring disorders. In addition to helping clients refine their goals for recovery, Julia provides non-judgmental guidance to clients as they begin to better understand their strengths and themselves.
