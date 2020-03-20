@@ -18,7 +18,8 @@ Persons with addiction are often confused by their inability to stop using alcoh
 
 #### Now By Telehealth!
 
-##### CBT Groups  
+##### CBT Groups
+
 Monday, Wednesday, Friday  
 5pm-6pm
 
@@ -26,7 +27,8 @@ Recovery from addiction requires attention, care, and dedication, but it needn't
 
 #### Now By Telehealth!
 
-##### Professionals Group  
+##### Professionals Group
+
 Tuesday at 3pm
 
 Often individuals who have been highly successfully professionally find it difficult to accept help in overcoming addiction. Joining a group of individuals with similar experiences can help these individuals makes sense of their addictive problems and develop strategies work with their day-to-day lives.
@@ -35,7 +37,8 @@ Often individuals who have been highly successfully professionally find it diffi
 
 #### Now By Telehealth!
 
-##### Family Group  
+##### Family Group
+
 Mondays  
 7:00pm-8:00pm
 
@@ -54,5 +57,7 @@ Weekly individual therapy can be an important element of an effective recovery p
 Cognitive Behavioral Therapy (CBT) is based on the observation that our emotions and behaviors are shaped by the thoughts running through our mind each day. This automatic stream of thoughts is like a radio that stays on in the background of our daily life. People with untreated depression hear a broadcast that is pessimistic and hopeless, those with anxiety a broadcast about everything that could go wrong, and those with addiction are tuned to a station that exaggerates the importance of drugs and alcohol and minimizes their consequences. Our thoughts shape our behavior and so the person with addiction protects his or her addiction, even if that means doing things that they would not normally do, like lying or shirking their obligations. Breaking the cycle of addiction can seem impossible to the person trapped in the illness, but there are proven strategies that help people break the cycle and become accustomed to life without drugs or alcohol.
 
 #### Medications to reduce cravings
+
+{% include video.html videoID="hg09_-89caY" %}
 
 Medications are not only used for drug and alcohol withdrawal but also to reduce your cravings for alcohol or drugs. You can read more about FDA-approved medications for [alcohol](https://store.samhsa.gov/shin/content/SMA15-4907/SMA15-4907.pdf) and [opioid](https://store.samhsa.gov/shin/content/SMA09-4442/SMA09-4442.pdf) use disorders. Watch these short videos to learn more about the role of pharmacotherapy in effective treatment and to hear our executive director discuss the difference that medication can make in the lives of persons with addiction.
