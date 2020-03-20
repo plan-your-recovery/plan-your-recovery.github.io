@@ -45,4 +45,10 @@ Meeting ID: 937-196-6974
 
 **Monday at 7pm**  
 [Plan Your Recovery Family Support Group](https://zoom.us/meeting/register/vJAtdOGprT0pal33KSBqYAXDdTn08gMS6A "Zoom Link")  
-This weekly meeting is free to Missouri residents and is facilitated by a substance use disorder professional. It is for all loved ones of persons with addiction. It may not be appropriate for children under 16. Persons under age 18 must be accompanied by a parent. [Register here to receive the Zoom link and call-in information.](https://zoom.us/meeting/register/vJAtdOGprT0pal33KSBqYAXDdTn08gMS6A "Registration") Call 314-467-8393 for more information.
+This weekly meeting is free to Missouri residents and is facilitated by a substance use disorder professional. It is for all loved ones of persons with addiction. It may not be appropriate for children under 16. Persons under age 18 must be accompanied by a parent. [Register here to receive the Zoom link and call-in information.](https://zoom.us/meeting/register/vJAtdOGprT0pal33KSBqYAXDdTn08gMS6A "Registration") Call 314-467-8393 for more information
+
+### National/International Online Recovery Communities
+[Smart Recovery Online](https://www.smartrecovery.org/smart-recovery-toolbox/smart-recovery-online/)
+[Online Group AA Meetings](https://www.onlinegroupaa.org/)
+[Online NA Meetings](https://www.na.org:443/meetingsearch/text-results.php?country=Web&state&city&zip&street&within=5&day=0&lang&orderby=distance)
+
