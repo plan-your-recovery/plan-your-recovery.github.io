@@ -9,9 +9,7 @@ excerpt: While our community faces the corona virus it is important that people 
 ---
 _While our community faces the corona virus, it is important that people in recovery and seeking recovery have online avenues to seek help. All resources on this page are free and available online. If you have a free online recovery resource you'd like us to list here, please email us at info@planyourrecovery.com._
 
-### St. Louis Online Recovery Supports
-
-### AA Meetings
+### St. Louis AA Meetings
 
 _These are established local AA meetings that have gone online in response to the corona virus. Click the title or Zoom link to join via your computer or on the Zoom iPhone or Android apps. If you prefer to call in, dial the phone number and enter the meeting ID. A host will admit you into the meeting._
 
