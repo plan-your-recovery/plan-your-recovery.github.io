@@ -4,7 +4,7 @@ layout: page
 permalink: "/treatment/"
 excerpt: Plan Your Recovery has an outpatient treatment program at Clayton Behavioral
   in St. Louis, Missouri. Currently all services are delivered by telehealth and are
-  therefore available to all Missouri residents. Through collaboration with Clayton
+  available to all Missouri residents. Through collaboration with Clayton
   Behavioral physicians, these services can include buprenorphine treatment and outpatient
   detoxification for alcohol use disorder. The rendering provider may make a determination
   that an in-person consultation is medically necessary.
