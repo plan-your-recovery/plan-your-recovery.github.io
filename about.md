@@ -15,7 +15,7 @@ _Plan Your Recovery_'s mission is to engage the public and stimulate accurate, u
 
 The Vision of _Plan Your Recovery_ is a society in which persons with addiction receive nonjudgmental, supportive, ongoing and effective treatment grounded in science and compassion.
 
-**Ned Presnall, LCSW**  is the executive director of Clayton Behavioral's programs, an adjunct professor and senior data analyst at Washington University in St. Louis, and a consultant for Missouri's State Opioid Response. He divides his time between clinical work, education, and research. If you would like information about _Plan Your Recovery_'s consuting, training, or treatment programs, please contact him at [npresnall@planyourrecovery.com](mailto:npresnall@planyourrecovery.com "Email Ned").
+**Ned Presnall, LCSW**  is the executive director of Clayton Behavioral's programs, an adjunct professor and senior data analyst at Washington University in St. Louis, and a consultant for Missouri's State Opioid Response. He divides his time between clinical work, education, and research. If you would like information about _Plan Your Recovery_'s consuting training, or treatment programs, please contact him at [npresnall@planyourrecovery.com](mailto:npresnall@planyourrecovery.com "Email Ned").
 
 <img src="Ned Presnall.jpg" alt="Girl in a jacket">
 
