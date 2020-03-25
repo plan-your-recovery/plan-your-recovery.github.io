@@ -1,4 +1,54 @@
 ---
 label: Post Template
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+- name: layout
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Layout
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
+- name: tag
+  type: tag_list
+  default: []
+  label: Tags
+- name: id
+  type: number
+  label: ID
+  description: Not sure if this is needed?
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
