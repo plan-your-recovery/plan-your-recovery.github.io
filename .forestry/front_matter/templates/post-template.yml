@@ -53,3 +53,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- _posts/nick-rad-man.md
