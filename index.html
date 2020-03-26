@@ -29,13 +29,14 @@ title: Home
               
         <section class="post-excerpt" itemprop="description">
           <a class="excerpt" href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.excerpt | strip_html }}
+            {{ post.excerpt | strip_html }} 
+            <a href="{{ site.baseurl }}{{ post.url }}" class="readmore-link">Continue reading...</a>
             
           </a>
         </section>        
-          <div class="post-meta">
+          <!--<div class="post-meta">
             <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-          </div>
+          </div>-->
         </div>
       </article>
       {% endunless %}
