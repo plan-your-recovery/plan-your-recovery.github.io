@@ -21,7 +21,7 @@ excerpt: 'Plan Your Recovery is brought to you by Ned Presnall and Nick Niles, t
 
 **Michelle Charbonnier** received her bachelor’s in business administration, management and entrepreneurship from Southern Illinois University Edwardsville. In 2015, she found her passion in helping people find recovery from substance use disorder and has been pursuing this work ever since. Michelle is an internationally certified reciprocal drug and alcohol counselor, certified facilitator of SMART Recovery and Seeking Safety, and registered yoga instructor who draws on yoga and mindfulness to support persons in recovery.
 
-<a id="Matt_Silva">![](/assets/images/700-matt_silva-288x400-288x400.jpg)</a>
+<a id="Matt_Silva">![](/assets/images/700Matt_Silva.jpg)</a>
 **Matthew Silva** 
 Matthew Silva has worked in the field of addiction for the past 18 years. During this time, he managed an acute drug and alcohol medical stabilization unit and served as both a President and Vice President at Substance Abuse Inpatient and Outpatient programs. He held positions as a Clinical Director and counselor at multiple facilities. Matthew developed and successfully launched his own treatment center and transitional living home. He served on the Board of Missouri Addiction Counselors Association as the Eastern Missouri Representative.  In addition, he served on the CRC Executive Board of Directors for Sober Living by the Sea Treatment Center. He is a graduate adjunct faculty member at Maryville University. Matthew’s education earned him a Master’s degree in Rehabilitation Counseling from Maryville University and a Master’s degree in Business Administration from Lindenwood University. He will obtain his Doctorate of Psychology in December 2021.
 
