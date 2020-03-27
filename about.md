@@ -22,8 +22,12 @@ excerpt: 'Plan Your Recovery is brought to you by Ned Presnall and Nick Niles, t
 **Michelle Charbonnier** received her bachelor’s in business administration, management and entrepreneurship from Southern Illinois University Edwardsville. In 2015, she found her passion in helping people find recovery from substance use disorder and has been pursuing this work ever since. Michelle is an internationally certified reciprocal drug and alcohol counselor, certified facilitator of SMART Recovery and Seeking Safety, and registered yoga instructor who draws on yoga and mindfulness to support persons in recovery.
 
 <a id="Matt_Silva">![](/assets/images/700-matt_silva-288x400-288x400.jpg)</a>
-**Matt Silva** 
-Matthew Silva is a Licensed Professional Counselor with a specialty in addiction treatment. He has Masters degrees in Rehabilitation Counseling and Business Administration and is currently pursuing a Doctorate in Psychology. Before discovering his passion for mental health, Matt had a successful career working in the technical marketing field for DuPont. Through his own struggles with addiction he began a journey of recovery and a vocation to help others who struggle with addiction and mental health. Matt uses person-centered counseling approaches such as motivational interviewing to help patients leverage their own wisdom and strengths in pursuit of the life and self that they desire. 
+**Matthew Silva** 
+Matthew Silva has worked in the field of addiction for the past 18 years. During this time, he managed an acute drug and alcohol medical stabilization unit and served as both a President and Vice President at Substance Abuse Inpatient and Outpatient programs. He held positions as a Clinical Director and counselor at multiple facilities. Matthew developed and successfully launched his own treatment center and transitional living home. He served on the Board of Missouri Addiction Counselors Association as the Eastern Missouri Representative.  In addition, he served on the CRC Executive Board of Directors for Sober Living by the Sea Treatment Center. He is a graduate adjunct faculty member at Maryville University. Matthew’s education earned him a Master’s degree in Rehabilitation Counseling from Maryville University and a Master’s degree in Business Administration from Lindenwood University. He will obtain his Doctorate of Psychology in December 2021.
+
+Matthew’s credentials include a Licensed Professional Counselor in the state of Missouri, a Certified Reciprocal Advanced Alcohol Drug Counselor, Certified Substance Abuse Supervisor, and SATOP Qualified Instructor. Matthew uses person-centered counseling approaches such as motivational interviewing to help patients leverage their own wisdom and strengths in pursuit of the life and self that they desire. 
+
+“I am grateful to be a part of Plan Your Recovery where the clinical care is our priority.”
 
 <a id="Julia_Katzman">![](/assets/images/700-Julia Katzman.jpg)</a>
 
