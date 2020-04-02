@@ -52,6 +52,6 @@ Cognitive Behavioral Therapy (CBT) is based on the observation that our emotions
 
 #### Medications to reduce cravings
 
-<br>{% include video.html videoID="MxO164ADK7Y" %}
+<br><br>{% include video.html videoID="MxO164ADK7Y" %}
 
 Medications are not only used for drug and alcohol withdrawal but also to reduce your cravings for alcohol or drugs. You can read more about FDA-approved medications for [alcohol](https://store.samhsa.gov/shin/content/SMA15-4907/SMA15-4907.pdf) and [opioid](https://store.samhsa.gov/shin/content/SMA09-4442/SMA09-4442.pdf) use disorders. Watch these short videos to learn more about the role of pharmacotherapy in effective treatment and to hear our executive director discuss the difference that medication can make in the lives of persons with addiction.
