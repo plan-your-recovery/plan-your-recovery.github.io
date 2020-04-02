@@ -50,7 +50,7 @@ Weekly individual therapy can be an important element of an effective recovery p
 
 Cognitive Behavioral Therapy (CBT) is based on the observation that our emotions and behaviors are shaped by the thoughts running through our mind each day. This automatic stream of thoughts is like a radio that stays on in the background of our daily life. People with untreated depression hear a broadcast that is pessimistic and hopeless, those with anxiety a broadcast about everything that could go wrong, and those with addiction are tuned to a station that exaggerates the importance of drugs and alcohol and minimizes their consequences. Our thoughts shape our behavior and so the person with addiction protects his or her addiction, even if that means doing things that they would not normally do, like lying or shirking their obligations. Breaking the cycle of addiction can seem impossible to the person trapped in the illness, but there are proven strategies that help people break the cycle and become accustomed to life without drugs or alcohol.
 
-#### Medications to reduce cravings
+#### Medications to reduce cravings <br>
 
 {% include video.html videoID="MxO164ADK7Y" %}
 
