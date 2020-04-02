@@ -1,8 +1,8 @@
 ---
-id: 167
-title: Bad Behavior
-subtitle: The ugly illness of alcoholism and addiction
-date: 2016-03-02 16:18:40 +0000
+id: "167"
+title: 'Bad Behavior: The ugly illness of alcoholism and addiction'
+subtitle: ''
+date: 2016-03-02T16:18:40.000+00:00
 author: Nick Niles
 layout: post
 guid: http://planyourrecovery.com/?p=167
