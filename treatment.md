@@ -23,22 +23,22 @@ Persons with addiction are often confused by their inability to stop using alcoh
 
 ##### Relapse Prevention Groups
 
-##### Monday, Wednesday, and Friday  
-5pm-6pm
+**Monday, Wednesday, and Friday  
+5pm-6pm**
 
 Recovery from addiction requires attention, care, and dedication, but it needn't take over your daily life. Our CBT program is designed to help people with alcoholism or addiciton make daily efforts toward change with minimal disruption to their daily lives. Each group weaves in brief education on a recovery-oriented topic and helps clients develop and refine recovery plans to meet their self-determined goals. This approach makes use of [Cognitive Behavioral Therapy](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral) and [Motivational Interviewing](https://attcnetwork.org/centers/northwest-attc/motivational-interviewing-mi), two counseling approaches supported by scientific evidence.
 
 ##### Professionals Group
 
-##### Tuesday   
-3pm-4pm
+**Tuesday  
+3pm-4pm**
 
 Often individuals who have been highly successfully professionally find it difficult to accept help in overcoming addiction. Joining a group of individuals with similar experiences can help these individuals makes sense of their addictive problems and develop strategies work with their day-to-day lives.
 
 ##### Family Group (Free to the Public)
 
-##### Mondays  
-7pm-8pm
+**Monday  
+7pm-8pm**
 
 Families are often at a loss how best to support a loved one affected by addiction. This therapist-facilitated group is **free to the St. Louis Community** and is a place for families affected by addiction to support one another, draw on their shared wisdom and experience, and learn the art of self-care.
 
