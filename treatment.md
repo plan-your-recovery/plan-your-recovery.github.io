@@ -13,11 +13,11 @@ class: treatment
 ---
 **_Plan Your Recovery_** _has an outpatient treatment program at Clayton Behavioral in St. Louis, Missouri. **Currently all services are delivered by telehealth** and are therefore available to all Missouri residents. Through collaboration with Clayton Behavioral physicians, these services can include buprenorphine treatment and outpatient detoxification for alcohol use disorder. The rendering provider may make a determination that an in-person consultation is medically necessary._ Click here for [pricing and insurance](planyourrecovery.com/pricing) information.<br><br>
 
-{% include video.html videoID="hg09_-89caY" %}
-
 ### Welcome
 
 Persons with addiction are often confused by their inability to stop using alcohol or drugs or to stop engaging in an addictive behavior like gambling. When their cravings are low, it feels like they might be able to stop on their own or moderate their use. But inevitably, the addictive cycle repeats itself causing frustration and shame. Family members and friends become increasingly frustrated and saddened by the changes they witness in their loved one. Sometimes it seems like the person suffering from addiction has lost sight of his or her most important priorities. The good news is that, while addiction can cause drastic changes in a person's behavior and relationships, the changes it causes are not permanent. As a person heals from addiction, his or her true self returns. At _Plan Your Recovery_, we are committed to helping patients and families recover from addiction using a thoughtful, evidence-based, compassionate approach.
+
+{% include video.html videoID="hg09_-89caY" %}
 
 {% include banner-telehealth.html %}
 
