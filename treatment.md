@@ -21,12 +21,12 @@ Persons with addiction are often confused by their inability to stop using alcoh
 
 {% include video.html videoID="hg09_-89caY" %}
 
-##### Relapse Prevention Groups
+##### Small Treatment Groups
 
 **Monday, Wednesday, and Friday  
 5pm-6pm**
 
-Recovery from addiction requires attention, care, and dedication, but it needn't take over your daily life. Our CBT program is designed to help people with alcoholism or addiciton make daily efforts toward change with minimal disruption to their daily lives. Each group weaves in brief education on a recovery-oriented topic and helps clients develop and refine recovery plans to meet their self-determined goals. This approach makes use of [Cognitive Behavioral Therapy](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral) and [Motivational Interviewing](https://attcnetwork.org/centers/northwest-attc/motivational-interviewing-mi), two counseling approaches supported by scientific evidence.
+Recovery from addiction requires attention, care, and dedication, but it needn't take over your daily life. Our treatment groups designed to help people with alcoholism or addiction make daily efforts toward change with minimal disruption to their daily lives. Each group weaves in brief education on a recovery-oriented topic and helps clients develop and refine recovery plans to meet their self-determined goals. This approach makes use of [Cognitive Behavioral Therapy](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral) and [Motivational Interviewing](https://attcnetwork.org/centers/northwest-attc/motivational-interviewing-mi), two counseling approaches supported by scientific evidence.
 
 ##### Professionals Group
 
@@ -46,7 +46,7 @@ Families are often at a loss how best to support a loved one affected by addicti
 
 Weekly individual therapy can be an important element of an effective recovery plan, but the addictive cycle often responds better from multiple weekly contacts from a therapist who can reinforce the skills needed to meet recovery goals. Telehealth makes these brief coaching sessions by phone, video, or text convenient and effective.
 
-#### Cognitive Behavioral Therapy
+#### Individual Therapy
 
 Cognitive Behavioral Therapy (CBT) is based on the observation that our emotions and behaviors are shaped by the thoughts running through our mind each day. This automatic stream of thoughts is like a radio that stays on in the background of our daily life. People with untreated depression hear a broadcast that is pessimistic and hopeless, those with anxiety a broadcast about everything that could go wrong, and those with addiction are tuned to a station that exaggerates the importance of drugs and alcohol and minimizes their consequences. Our thoughts shape our behavior and so the person with addiction protects his or her addiction, even if that means doing things that they would not normally do, like lying or shirking their obligations. Breaking the cycle of addiction can seem impossible to the person trapped in the illness, but there are proven strategies that help people break the cycle and become accustomed to life without drugs or alcohol.
 
