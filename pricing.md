@@ -6,7 +6,7 @@ permalink: "/pricing/"
 ---
 ### Pricing
 
-Plan Your Recovery does not require a big down payment to get started in treatment. Patients pay only for the services they use. The following are the fees for service. <br><br>
+Plan Your Recovery does not require a big down payment to get started in treatment. Patients pay only for the services they use. The following are the fees for service.
 
 **Individual or Family Therapy** ($90-$150 depending on provider)
 
