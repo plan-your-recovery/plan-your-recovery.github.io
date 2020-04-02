@@ -1,5 +1,5 @@
 ---
-title: Treatment
+title: ''
 layout: page
 permalink: "/treatment/"
 excerpt: Plan Your Recovery has an outpatient treatment program at Clayton Behavioral
