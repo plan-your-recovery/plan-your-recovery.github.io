@@ -2,7 +2,8 @@
 title: Our Team
 layout: page
 permalink: "/team/"
-excerpt: 'Plan Your Recovery offers a highly indiviualized approach to alcohol and drug problems delivered by a smart, compassionate team of clinicians.' 
+excerpt: Plan Your Recovery offers a highly indiviualized approach to alcohol and
+  drug problems delivered by a smart, compassionate team of clinicians.
 
 ---
 <a id="Ned_Presnall">
@@ -27,7 +28,7 @@ Matthew’s credentials include a Licensed Professional Counselor in the state o
 
 <a id="Julia_Katzman">![](/assets/images/700-Julia Katzman.jpg)</a>
 
-**Julia Katzman** is a clinical practicum student pursuing her Masters of Social Work at Washington University in St. Louis. Julia offers her adult and teen clients a practical and evidence-based approach for treating substance use and co-occurring disorders. In addition to helping clients refine their goals for recovery, Julia provides non-judgmental guidance to clients as they begin to better understand their strengths and themselves. Contact Julia at 314-527-0557 or jkatzman@planyourrecovery.com
+**Julia Katzman, LMSW** is a therapist specializing in adolescent mental health and addiction. Her practical, evidenced-based counseling and treatment incorporates individual and family therapy. Julia is a St. Louis native and received her Masters in Social Work from Washington University. In addition to helping clients refine their goals for recovery, Julia provides non-judgmental guidance to clients to better understand their strengths and paths for success. Contact Julia at [314-527-0557](tel:314-527-0557) or [jkatzman@planyourrecovery.com](mailto:jkatzman@planyourrecovery.com)
 
 <a id="Nick_Niles">![](/assets/images/700-Nick_Niles.jpg)</a>
 
