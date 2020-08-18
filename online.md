@@ -9,9 +9,6 @@ excerpt: While our community faces the corona virus it is important that people 
 ---
 _While our community faces the corona virus, it is important that people in recovery and seeking recovery have online avenues to seek help. All resources on this page are free and available online. If you have a free online recovery resource you'd like us to list here, please email us at info@planyourrecovery.com._
 
-This facebook group is a very well organized and continually updated list of recovery meetings available in the St. Louis Community. 
-https://www.facebook.com/groups/recoverySTL/
-
 ### St. Louis AA Meetings
 
 _These are established local AA meetings that have gone online in response to the corona virus. Click the title or Zoom link to join via your computer or on the Zoom iPhone or Android apps. If you prefer to call in, dial the phone number and enter the meeting ID. A host will admit you into the meeting._
@@ -36,6 +33,14 @@ Meeting ID: 191 385 271
 
 #### Co-Ed AA Meetings
 
+**Monday 8pm**  
+[Dubious Luxury](https://zoom.us/j/187245516)  
+Co-Ed  
+Open  
+[Zoom Video/Audio link](https://zoom.us/j/187245516 "Zoom Link")  
+Phone: 312-626-6799  
+Meeting ID: 937-196-6974
+
 **Wednesday 8pm**  
 [#1 Offenders](https://zoom.us/j/187245516 "Zoom Link")  
 Co-Ed  
@@ -51,6 +56,7 @@ Meeting ID: 937-196-6974
 This weekly meeting is free to Missouri residents and is facilitated by a substance use disorder professional. It is for all loved ones of persons with addiction. It may not be appropriate for children under 16. Persons under age 18 must be accompanied by a parent. [Register here to receive the Zoom link and call-in information.](https://zoom.us/meeting/register/vJAtdOGprT0pal33KSBqYAXDdTn08gMS6A "Registration") Call 314-467-8393 for more information
 
 ### National/International Online Recovery Communities
+
 [Smart Recovery Online](https://www.smartrecovery.org/smart-recovery-toolbox/smart-recovery-online/)
 
 [Online Group AA Meetings](https://www.onlinegroupaa.org/)
@@ -58,4 +64,3 @@ This weekly meeting is free to Missouri residents and is facilitated by a substa
 [Online NA Meetings](https://www.na.org:443/meetingsearch/text-results.php?country=Web&state&city&zip&street&within=5&day=0&lang&orderby=distance)
 
 [AlAnon Electronic Meetings](https://al-anon.org/al-anon-meetings/electronic-meetings/)
-
