@@ -30,6 +30,12 @@ Matthew’s credentials include a Licensed Professional Counselor in the state o
 
 **Julia Katzman, LMSW** is a therapist specializing in adolescent mental health and addiction. Her practical, evidenced-based counseling and treatment incorporates individual and family therapy. Julia is a St. Louis native and received her Masters in Social Work from Washington University. In addition to helping clients refine their goals for recovery, Julia provides non-judgmental guidance to clients to better understand their strengths and paths for success. Contact Julia at [314-527-0557](tel:314-527-0557) or [jkatzman@planyourrecovery.com](mailto:jkatzman@planyourrecovery.com)
 
+<a id="Caroline_Schmidt"
+
+![](/./headshot_schmidt_caroline.jpg)</a>
+
+**Caroline Schmidt** is a second-year Masters of Social Work student at Washington University in St. Louis, practicing under the supervision of Ned Presnall. Utilizing her background as a studio artist, Caroline is able to assist her clients in coming up with affirmative and creative solutions to overcome the obstacles that lie in their paths. Caroline uses Motivation Interviewing, Cognitive Behavioral Therapy, and Acceptance and Commitment Therapy. As a student, Caroline is able to provide services for a reduced fee. Contact her to set up an appointment at 314-222-5896 or at [cschmidt@planyourrecovery.com](mailto:c.schmidt@planyourrecovery.com)
+
 <a id="Nick_Niles">![](/assets/images/700-Nick_Niles.jpg)</a>
 
 **Nick Niles** is a filmmaker, musician, and award-winning graphic designer living and working in Zürich, Switzerland. He studied in the Design & Technology masters program at Parsons School of Design in New York City, and received an MFA in Film Directing from Columbia University. During the day, he’s the Head of Product Design at Voice Republic. He’s passionate about helping people tell their stories. Nick was a co-creator of Plan Your Recovery's opioid treatment [testimonials](https://planyourrecovery.com/stories/ "Stories") and animated videos on [addiction pharmacotherapy](https://planyourrecovery.com/videos/ "Animations").
