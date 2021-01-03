@@ -30,7 +30,7 @@ Matthew’s credentials include a Licensed Professional Counselor in the state o
 
 **Julia Katzman, LMSW** is a therapist specializing in adolescent mental health and addiction. Her practical, evidenced-based counseling and treatment incorporates individual and family therapy. Julia is a St. Louis native and received her Masters in Social Work from Washington University. In addition to helping clients refine their goals for recovery, Julia provides non-judgmental guidance to clients to better understand their strengths and paths for success. Contact Julia at [314-527-0557](tel:314-527-0557) or [jkatzman@planyourrecovery.com](mailto:jkatzman@planyourrecovery.com)
 
-<a id="Caroline_Schmidt"
+<a id="Caroline_Schmidt">
 
 ![](/./headshot_schmidt_caroline.jpg)</a>
 
