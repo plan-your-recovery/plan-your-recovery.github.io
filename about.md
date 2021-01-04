@@ -32,7 +32,7 @@ Matthew’s credentials include a Licensed Professional Counselor in the state o
 
 <a id="Caroline_Schmidt">
 
-![](/./headshot_schmidt_caroline.jpg)</a>
+![](/assets/images/caroline_schmidt-800.jpg)
 
 **Caroline Schmidt** is a second-year Masters of Social Work student at Washington University in St. Louis, practicing under the supervision of Ned Presnall. Utilizing her background as a studio artist, Caroline is able to assist her clients in coming up with affirmative and creative solutions to overcome the obstacles that lie in their paths. Caroline uses Motivation Interviewing, Cognitive Behavioral Therapy, and Acceptance and Commitment Therapy. As a student, Caroline is able to provide services for a reduced fee. Contact her to set up an appointment at 314-222-5896 or at [cschmidt@planyourrecovery.com](mailto:c.schmidt@planyourrecovery.com)
 
