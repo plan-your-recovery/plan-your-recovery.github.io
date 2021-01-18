@@ -13,7 +13,7 @@ class: treatment
 ---
 {% include banner-telehealth.html %}
 
-**_Plan Your Recovery_** _has an outpatient treatment program at Clayton Behavioral in St. Louis, Missouri. **Currently all services are delivered by telehealth** and are therefore available to all Missouri residents. Through collaboration with Clayton Behavioral physicians, these services can include buprenorphine treatment and outpatient detoxification for alcohol use disorder. The rendering provider may make a determination that an in-person consultation is medically necessary._ Click here for [pricing and insurance](http://planyourrecovery.com/pricing) information.
+**_Plan Your Recovery_** _has an outpatient treatment program at Clayton Behavioral in St. Louis, Missouri. **Currently all services are delivered by telehealth** and are therefore available to all Missouri residents. Through collaboration with Clayton Behavioral physicians, these services can include buprenorphine treatment and outpatient detoxification for alcohol use disorder. The rendering provider may make a determination that an in-person consultation is medically necessary._ Click here for [pricing and insurance](http://planyourrecovery.com/pricing) information. Call/Text 314-467-8393 to talk to a clinician. Or email us at info@planyourrecovery.com
 
 ### Welcome
 
