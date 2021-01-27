@@ -4,24 +4,14 @@ layout: page
 permalink: "/plans/"
 
 ---
-### Pricing
+### Group Programs
 
-Plan Your Recovery does not require a big down payment to get started in treatment. Patients pay only for the services they use. The following are the fees for service.
+On this page you can purchase group programs. You can cancel programs by logging into your Mind Body account in the MindBody App or at mindbodyonline.com. 
 
-**Individual or Family Therapy** ($90-$150 depending on provider)
+When you sign up for a Plan Your Recovery Group, you select the day or days you will be attending and pay for one month of group attendance. Please select the option that works best with your schedule and your recovery goals. We encourage you to consult with your therapist in selecting a plan. 
 
-**Group Therapy** ($50/group)
+### Three Groups per Week: Monday, Wednesday, and Friday (5pm-6pm)
 
-**Recovery Coaching** (discuss plans with provider)
+<script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script><healcode-widget data-version="0.2" data-link-class="healcode-contract-text-link" data-site-id="82969" data-mb-site-id="733336" data-type="contract-link" data-inner-html="Purchase this Plan" data-service-id="104" />
 
-**Urine Drug Screens** ($15/screen)
-
-**Suboxone Treatment** ($200 / physician visit)
-
-**Outpatient Alcohol Detoxification** ($200 / physician visit)
-
-**Psychiatry** (varies by provider)
-
-### Insurance
-
-Plan Your Recovery does not contract with insurance companies for direct payment, but we will submit your group, individual, and family therapy sessions to insurance as a courtesy. Reimbursement will depend on your out-of-network benefits and your insurer's service requirements. Reimbursement is not guaranteed.
+.
