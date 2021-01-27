@@ -1,7 +1,7 @@
 ---
 title: ''
 layout: page
-permalink: "/pricing/"
+permalink: "/plans/"
 
 ---
 ### Pricing
