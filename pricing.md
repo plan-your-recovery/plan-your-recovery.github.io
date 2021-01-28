@@ -4,21 +4,23 @@ layout: page
 permalink: "/pricing/"
 
 ---
-### Pricing
+### [Intensive Outpatient and other Group Programs](/plans)
 
-Plan Your Recovery does not require a big down payment to get started in treatment. Patients pay only for the services they use. The following are the fees for service.
+### Individual Therapy
 
-**Individual or Family Therapy** ($90-$150 depending on provider)
+**Individual or Family Therapy** ($90-$175 depending on provider)
 
-**Group Therapy** ($50/group)
-
-**Recovery Coaching** (discuss plans with provider)
+### Toxicology
 
 **Urine Drug Screens** ($15/screen)
 
+**Soberlink Monitoring** ($9/day)
+
+### Medical Services (in collaboration with Clayton Behavioral)
+
 **Suboxone Treatment** ($200 / physician visit)
 
-**Outpatient Alcohol Detoxification** ($200 / physician visit)
+**Outpatient Alcohol Detoxification** ($250 / initial physician visit; $200 for follow-ups)
 
 **Psychiatry** (varies by provider)
 
